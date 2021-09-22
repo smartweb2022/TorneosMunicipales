@@ -23,7 +23,7 @@ namespace Consola
             {
                 Console.WriteLine("Se presento una falla");   
             }
-            bool funciono = crearEntrenador();
+            /*bool funciono = crearEntrenador();
             if (funciono)
             {
                  Console.WriteLine("Entrenador adicionado con exito");
@@ -32,7 +32,7 @@ namespace Consola
             {
                 Console.WriteLine("Se presento una falla");   
             }
-            /*bool funciono2 = crearMunicipio();
+            bool funciono2 = crearMunicipio();
             if (funciono2)
             {
                  Console.WriteLine("Municipio adicionado con exito");
