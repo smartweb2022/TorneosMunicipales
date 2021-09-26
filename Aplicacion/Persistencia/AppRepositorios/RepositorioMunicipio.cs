@@ -54,8 +54,8 @@ namespace Persistencia
         }
         bool IRepositorioMunicipio.EliminarMunicipio(int idMunicipio)
         {
-            bool eliminado= false;
-            var municipio=_appContext.Municipios.Find(idMunicipio);
+            bool eliminado = false;
+            var municipio =_appContext.Municipios.Find(idMunicipio);
             if(municipio!=null)
             {
                 try

@@ -1,4 +1,4 @@
-/*using System.Collections.Generic;
+using System.Collections.Generic;
 using Dominio;
 using System.Linq;
 
@@ -33,15 +33,15 @@ namespace Persistencia
            }
            return creado;
         }
-        bool IRepositorioMunicipio.ActualizarMunicipio(Municipio municipio)
+        bool IRepositorioPatrocinador.ActualizarPatrocinador(Patrocinador patrocinador)
         {
             bool actualizado = false;
-            var muni = _appContext.Municipios.Find(municipio.Id);
-            if(muni != null)
+            var patro = _appContext.Patrocinadores.Find(patrocinador.Id);
+            if(patro != null)
             {
                 try 
                 {
-                    muni.Nombre = municipio.Nombre;
+                    patro.Nombre = patrocinador.Nombre;
                     _appContext.SaveChanges();
                     actualizado = true;
                 }
@@ -52,15 +52,15 @@ namespace Persistencia
             }
             return actualizado;
         }
-        bool IRepositorioMunicipio.EliminarMunicipio(int idMunicipio)
+        bool IRepositorioPatrocinador.EliminarPatrocinador(int idPatrocinador)
         {
             bool eliminado= false;
-            var municipio=_appContext.Municipios.Find(idMunicipio);
-            if(municipio!=null)
+            var patrocinador =_appContext.Patrocinadores.Find(idPatrocinador);
+            if(patrocinador != null)
             {
                 try
                 {
-                     _appContext.Municipios.Remove(municipio);
+                     _appContext.Patrocinadores.Remove(patrocinador);
                      _appContext.SaveChanges();
                      eliminado=true;
                 }
@@ -71,16 +71,16 @@ namespace Persistencia
             }
             return eliminado;
         }
-        Municipio IRepositorioMunicipio.BuscarMunicipio(int idMunicipio)
+        Patrocinador IRepositorioPatrocinador.BuscarPatrocinador(int idPatrocinador)
         {
-            Municipio municipio= _appContext.Municipios.Find(idMunicipio);
-            return municipio;
+            Patrocinador patrocinador = _appContext.Patrocinadores.Find(idParocimador);
+            return patrocinador;
         }
 
-        IEnumerable<Municipio> IRepositorioMunicipio.ListarMunicipios()
+        IEnumerable<Patrocinador> IRepositorioPatrocinador.ListarPatrocinadores()
         {
-            return _appContext.Municipios;
+            return _appContext.Patrocinadores;
         }
 
     }
-}*/
+}

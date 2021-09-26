@@ -5,6 +5,7 @@ namespace Persistencia
 {
     public interface IRepositorioMunicipio
     {
+        
         //Metodos CRUD para clase Municipio
         IEnumerable<Municipio> ListarMunicipios();
         bool CrearMunicipio(Municipio municipio);

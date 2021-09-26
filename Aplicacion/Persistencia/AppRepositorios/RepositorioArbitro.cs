@@ -4,25 +4,25 @@ using System.Linq;
 
 namespace Persistencia
 {
-    public class RepositorioEntrenador:IRepositorioEntrenador
+    public class RepositorioArbitro:IRepositorioArbitro
     {
         // Atributos
         private readonly AppContext _appContext;
 
         //Metodos
         //Constructor
-        public RepositorioEntrenador(AppContext appContext)
+        public RepositorioArbitro(AppContext appContext)
         {
             _appContext=appContext;
         }
-        //implementar todos los metodos de la interfaz IRepositorioEntrenador
+        //implementar todos los metodos de la interfaz IRepositorioArbitro
 
-        bool IRepositorioEntrenador.CrearEntrenador(Entrenador entrenador)
+        bool IRepositorioArbitro.CrearArbitro(Arbitro arbitro)
         {
            bool creado=false;
            try
            {
-                _appContext.Entrenadores.Add(entrenador);
+                _appContext.Arbitros.Add(arbitro);
                 _appContext.SaveChanges();
                 creado=true;
            }
@@ -33,15 +33,15 @@ namespace Persistencia
            }
            return creado;
         }
-        bool IRepositorioEntrenador.ActualizarEntrenador(Entrenador entrenador)
+        bool IRepositorioArbitro.ActualizarArbitro(Arbitro arbitro)
         {
             bool actualizado = false;
-            var entre = _appContext.Entrenadores.Find(entrenador.Id);
-            if(entre != null)
+            var arbi = _appContext.Arbitros.Find(arbitro.Id);
+            if(arbi != null)
             {
                 try 
                 {
-                    entre.Documento = entrenador.Documento;
+                    arbi.Nombre = arbitro.Nombre;
                     _appContext.SaveChanges();
                     actualizado = true;
                 }
@@ -52,15 +52,15 @@ namespace Persistencia
             }
             return actualizado;
         }
-        bool IRepositorioEntrenador.EliminarEntrenador(int idEntrenador)
+        bool IRepositorioArbitro.EliminarArbitro(int idArbitro)
         {
             bool eliminado= false;
-            var entrenador=_appContext.Entrenadores.Find(idEntrenador);
-            if(entrenador!=null)
+            var arbitro =_appContext.Arbitros.Find(idArbitro);
+            if(arbitro != null)
             {
                 try
                 {
-                     _appContext.Entrenadores.Remove(entrenador);
+                     _appContext.Arbitros.Remove(arbitro);
                      _appContext.SaveChanges();
                      eliminado=true;
                 }
@@ -71,15 +71,15 @@ namespace Persistencia
             }
             return eliminado;
         }
-        Entrenador IRepositorioEntrenador.BuscarEntrenador(int idEntrenador)
+        Arbitro IRepositorioArbitro.BuscarArbitro(int idArbitro)
         {
-            Entrenador entrenador= _appContext.Entrenadores.Find(idEntrenador);
-            return entrenador;
+            Arbitro arbitro = _appContext.Arbitros.Find(idArbitro);
+            return arbitro;
         }
 
-        IEnumerable<Entrenador> IRepositorioEntrenador.ListarEntrenadores()
+        IEnumerable<Arbitro> IRepositorioArbitro.ListarArbitros()
         {
-            return _appContext.Entrenadores;
+            return _appContext.Arbitros;
         }
 
     }
