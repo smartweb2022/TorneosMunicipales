@@ -3,7 +3,7 @@ using Dominio;
 
 namespace Persistencia
 {
-    public interface IRepositorioEcuelaArbitro
+    public interface IRepositorioEscuelaArbitro
     {
         
         //Metodos CRUD para clase EscuelaArbitro

@@ -73,7 +73,7 @@ namespace Persistencia
         }
         Patrocinador IRepositorioPatrocinador.BuscarPatrocinador(int idPatrocinador)
         {
-            Patrocinador patrocinador = _appContext.Patrocinadores.Find(idParocimador);
+            Patrocinador patrocinador = _appContext.Patrocinadores.Find(idPatrocinador);
             return patrocinador;
         }
 
