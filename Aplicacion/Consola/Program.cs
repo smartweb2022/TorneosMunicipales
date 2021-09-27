@@ -12,6 +12,9 @@ namespace Consola
         private static IRepositorioMunicipio _repomunicipio = new RepositorioMunicipio(new Persistencia.AppContext());
         private static IRepositorioEntrenador _repoentrenador = new RepositorioEntrenador(new Persistencia.AppContext());
         private static IRepositorioEquipo _repoequipo = new RepositorioEquipo(new Persistencia.AppContext());
+        private static IRepositorioPatrocinador _repopatrocinador = new RepositorioPatrocinador(new Persistencia.AppContext());
+        private static IRepositorioArbitro _repoarbitro = new RepositorioArbitro(new Persistencia.AppContext());
+        private static IRepositorioEscuelaArbitro _repoescuelaarbitro = new RepositorioEscuelaArbitro(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             bool funciono1 = crearEquipo();
