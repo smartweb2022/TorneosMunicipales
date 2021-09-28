@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Dominio;
+using Persistencia;
 
 namespace Frontend
 {
@@ -24,6 +26,10 @@ namespace Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            //Inyecion de indepandencia
+            services.AddScoped<IRepositorioMunicipio,RepositorioMunicipio>();
+            //Registrar el contexto de datos
+            services.AddDbContext<Persistencia.AppContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
