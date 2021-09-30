@@ -1,0 +1,40 @@
+﻿@page
+@model Frontend.Pages.IndexModel
+@{
+    ViewData["Title"] = TIndex;
+}
+<h1>Lista de los Torneos</h1>
+<p>
+    <a asp-page="Create"> Crear torneo</a>
+</p>
+
+<table class="table"> 
+    <thead>
+        <tr>
+            <th> Id </th>
+            <th> Nombre </th>
+            <th> Categoria </th>
+            <th> FechaFinal </th>
+            <th> FechaFinal </th>
+            <th> Tipo </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tor in Model.Torneos)
+        {
+        <tr>
+            <td> @tor.Id </td>
+            <td> @tor.Nombre </td>
+            <td> @tor.Categoria </td>
+            <td> @tor.FechaFinal </td>
+            <td> @tor.FechaFinal </td>
+            <td> @tor.Tipo </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id = "@tor.Id">Editar</a>
+                <a asp-page="./Delete"asp-route-id="@tor.Id">Eliminar</a>
+                <a asp-page="./Details"asp-route-id="@tor.Id">Detalles</a>
+            </td>
+        </tr>    
+        }
+    </tbody>
+</table>
