@@ -26,11 +26,12 @@ namespace Persistencia
             if(!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer("Data Source= (localdb)\\MSSQLLocalDB;Initial Catalog= EventosDepG8");
+
             }
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<TorneoEquipo>().HasKey(x=> new{x.EquipoId,x.TorneoId});
+            modelBuilder.Entity<TorneoEquipo>().HasKey(x=> new{x.IdEquipo,x.IdTorneo});
         }
 
     }

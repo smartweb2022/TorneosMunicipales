@@ -33,7 +33,7 @@ namespace Persistencia
            }
            return creado;
         }
-        bool IRepositorioEscenario.ActualizarEscenarios(Escenario escenario)
+        bool IRepositorioEscenario.ActualizarEscenario(Escenario escenario)
         {
             bool actualizado = false;
             var escen = _appContext.Escenarios.Find(escenario.Id);

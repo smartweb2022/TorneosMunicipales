@@ -22,7 +22,7 @@ namespace Persistencia
            bool creado=false;
            try
            {
-                _appContext.TorneosEquipos.Add(torneoequipo);
+                _appContext.TorneoEquipos.Add(torneoequipo);
                 _appContext.SaveChanges();
                 creado=true;
            }
@@ -36,12 +36,12 @@ namespace Persistencia
         bool IRepositorioTorneoEquipo.ActualizarTorneoEquipo(TorneoEquipo torneoequipo)
         {
             bool actualizado = false;
-            var torequi = _appContext.TorneosEquipos.Find(torneoequipo.Id);
+            var torequi = _appContext.TorneoEquipos.Find(torneoequipo.Id);
             if(torequi != null)
             {
                 try 
                 {
-                    torequi.Nombre = torneoequipo.Nombre;
+                    torequi.Id = torneoequipo.Id;
                     _appContext.SaveChanges();
                     actualizado = true;
                 }
@@ -55,12 +55,12 @@ namespace Persistencia
         bool IRepositorioTorneoEquipo.EliminarTorneoEquipo(int idTorneoEquipo)
         {
             bool eliminado= false;
-            var torneoequipo =_appContext.TorneosEquipos.Find(idTorneoEquipo);
+            var torneoequipo =_appContext.TorneoEquipos.Find(idTorneoEquipo);
             if(torneoequipo != null)
             {
                 try
                 {
-                     _appContext.TorneosEquipos.Remove(torneoequipo);
+                     _appContext.TorneoEquipos.Remove(torneoequipo);
                      _appContext.SaveChanges();
                      eliminado=true;
                 }
@@ -73,13 +73,13 @@ namespace Persistencia
         }
         TorneoEquipo IRepositorioTorneoEquipo.BuscarTorneoEquipo(int idTorneoEquipo)
         {
-            TorneoEquipo torneoequipo = _appContext.TorneosEquipos.Find(idTorneoEquipo);
+            TorneoEquipo torneoequipo = _appContext.TorneoEquipos.Find(idTorneoEquipo);
             return torneoequipo;
         }
 
         IEnumerable<TorneoEquipo> IRepositorioTorneoEquipo.ListarTorneosEquipos()
         {
-            return _appContext.TorneosEquipos;
+            return _appContext.TorneoEquipos;
         }
 
     }

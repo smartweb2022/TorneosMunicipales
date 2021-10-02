@@ -14,6 +14,7 @@ namespace Dominio
         public string Horario{get;set;}
         //llave forane para la relacion con Torneo
         public int TorneoId{get;set;}
-
+        //propiedad navigacional hacia la tabla cancha
+        public List<Cancha> Cancha {get;set;}
     }
 }

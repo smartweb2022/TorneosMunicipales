@@ -8,24 +8,6 @@ namespace Persistencia.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Canchas",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Diciplina = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Estado = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Capacidad = table.Column<int>(type: "int", nullable: false),
-                    Medidas = table.Column<double>(type: "float", nullable: false),
-                    EscenarioId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Canchas", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "EscuelaArbitros",
                 columns: table => new
                 {
@@ -181,7 +163,7 @@ namespace Persistencia.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Documento = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Nombres = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Apelldos = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Genero = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Rh = table.Column<string>(type: "nvarchar(max)", nullable: true),
@@ -231,22 +213,49 @@ namespace Persistencia.Migrations
                 name: "TorneoEquipos",
                 columns: table => new
                 {
-                    TorneoId = table.Column<int>(type: "int", nullable: false),
-                    EquipoId = table.Column<int>(type: "int", nullable: false)
+                    IdTorneo = table.Column<int>(type: "int", nullable: false),
+                    IdEquipo = table.Column<int>(type: "int", nullable: false),
+                    Id = table.Column<int>(type: "int", nullable: false),
+                    TorneoId = table.Column<int>(type: "int", nullable: true),
+                    EquipoId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_TorneoEquipos", x => new { x.EquipoId, x.TorneoId });
+                    table.PrimaryKey("PK_TorneoEquipos", x => new { x.IdEquipo, x.IdTorneo });
                     table.ForeignKey(
                         name: "FK_TorneoEquipos_Equipos_EquipoId",
                         column: x => x.EquipoId,
                         principalTable: "Equipos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_TorneoEquipos_Torneos_TorneoId",
                         column: x => x.TorneoId,
                         principalTable: "Torneos",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Canchas",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Diciplina = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Estado = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Capacidad = table.Column<int>(type: "int", nullable: false),
+                    Medidas = table.Column<double>(type: "float", nullable: false),
+                    EscenarioId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Canchas", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Canchas_Escenarios_EscenarioId",
+                        column: x => x.EscenarioId,
+                        principalTable: "Escenarios",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -260,6 +269,11 @@ namespace Persistencia.Migrations
                 name: "IX_Arbitros_TorneoId",
                 table: "Arbitros",
                 column: "TorneoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Canchas_EscenarioId",
+                table: "Canchas",
+                column: "EscenarioId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Deportistas_EquipoId",
@@ -281,6 +295,11 @@ namespace Persistencia.Migrations
                 name: "IX_Escenarios_TorneoId",
                 table: "Escenarios",
                 column: "TorneoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_TorneoEquipos_EquipoId",
+                table: "TorneoEquipos",
+                column: "EquipoId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_TorneoEquipos_TorneoId",
@@ -308,13 +327,13 @@ namespace Persistencia.Migrations
                 name: "Entrenadores");
 
             migrationBuilder.DropTable(
-                name: "Escenarios");
-
-            migrationBuilder.DropTable(
                 name: "TorneoEquipos");
 
             migrationBuilder.DropTable(
                 name: "EscuelaArbitros");
+
+            migrationBuilder.DropTable(
+                name: "Escenarios");
 
             migrationBuilder.DropTable(
                 name: "Equipos");

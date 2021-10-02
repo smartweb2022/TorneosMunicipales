@@ -11,7 +11,7 @@ namespace Persistencia
 
         //Metodos
         //Constructor
-        public RepositorioDepostista(AppContext appContext)
+        public RepositorioDeportista(AppContext appContext)
         {
             _appContext=appContext;
         }
@@ -33,7 +33,7 @@ namespace Persistencia
            }
            return creado;
         }
-        bool IRepositorioDepostista.ActualizarDeportista(Deportista deportista)
+        bool IRepositorioDeportista.ActualizarDeportista(Deportista deportista)
         {
             bool actualizado = false;
             var deport = _appContext.Deportistas.Find(deportista.Id);

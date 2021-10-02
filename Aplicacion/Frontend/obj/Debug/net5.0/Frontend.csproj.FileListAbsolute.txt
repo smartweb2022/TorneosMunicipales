@@ -72,3 +72,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.dll
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\Dominio.pdb
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb

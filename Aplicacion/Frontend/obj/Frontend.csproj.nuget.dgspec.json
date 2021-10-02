@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Frontend\\Frontend.csproj": {}
+    "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -62,22 +64,24 @@
         }
       }
     },
-    "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Frontend\\Frontend.csproj": {
+    "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Frontend\\Frontend.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Frontend\\obj\\",
+        "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -90,11 +94,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj"
+              "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj"
               },
-              "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\Persistencia.csproj"
+              "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -130,22 +134,24 @@
         }
       }
     },
-    "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Persistencia\\obj\\",
+        "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -158,8 +164,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Códigos\\Proyecto\\Proyecto\\Aplicacion\\Dominio\\Dominio.csproj"
+              "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj"
               }
             }
           }

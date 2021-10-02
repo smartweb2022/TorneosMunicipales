@@ -7,8 +7,8 @@
         {
             //Metodos CRUD para clase Escenario
             IEnumerable<Escenario> ListarEscenarios();
-            bool CrearEscenario (Escenario escenarios);
-            bool ActualizarEscenario (Escenario escenarios);
+            bool CrearEscenario (Escenario escenario);
+            bool ActualizarEscenario (Escenario escenario);
             bool EliminarEscenario (int idEscenario);
             Escenario BuscarEscenario(int idEscenario);
         }

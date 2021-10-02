@@ -6,10 +6,10 @@ namespace Dominio
 {
     public class TorneoEquipo
     {
-        
+        public int Id{get;set;}
         // llave principa compuesta por los dos campos ID
-        public int TorneoId{get;set;}
-        public int EquipoId{get;set;}
+        public int IdTorneo{get;set;}
+        public int IdEquipo{get;set;}
         // propiedad navigacional a Torneo
         public Torneo Torneo {get;set;} 
         // propiedad navigacional a Equipo

@@ -10,7 +10,7 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20210919013012_Inicial")]
+    [Migration("20211002210114_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -88,6 +88,8 @@ namespace Persistencia.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("EscenarioId");
+
                     b.ToTable("Canchas");
                 });
 
@@ -122,7 +124,7 @@ namespace Persistencia.Migrations
                     b.Property<string>("Genero")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Nombres")
+                    b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NumeroEmergencia")
@@ -332,13 +334,24 @@ namespace Persistencia.Migrations
 
             modelBuilder.Entity("Dominio.TorneoEquipo", b =>
                 {
-                    b.Property<int>("EquipoId")
+                    b.Property<int>("IdEquipo")
                         .HasColumnType("int");
 
-                    b.Property<int>("TorneoId")
+                    b.Property<int>("IdTorneo")
                         .HasColumnType("int");
 
-                    b.HasKey("EquipoId", "TorneoId");
+                    b.Property<int?>("EquipoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("TorneoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("IdEquipo", "IdTorneo");
+
+                    b.HasIndex("EquipoId");
 
                     b.HasIndex("TorneoId");
 
@@ -356,6 +369,15 @@ namespace Persistencia.Migrations
                     b.HasOne("Dominio.Torneo", null)
                         .WithMany("Arbitros")
                         .HasForeignKey("TorneoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Dominio.Cancha", b =>
+                {
+                    b.HasOne("Dominio.Escenario", null)
+                        .WithMany("Cancha")
+                        .HasForeignKey("EscenarioId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
@@ -409,15 +431,11 @@ namespace Persistencia.Migrations
                 {
                     b.HasOne("Dominio.Equipo", "Equipo")
                         .WithMany("TorneoEquipos")
-                        .HasForeignKey("EquipoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EquipoId");
 
                     b.HasOne("Dominio.Torneo", "Torneo")
                         .WithMany("TorneoEquipos")
-                        .HasForeignKey("TorneoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TorneoId");
 
                     b.Navigation("Equipo");
 
@@ -431,6 +449,11 @@ namespace Persistencia.Migrations
                     b.Navigation("Entrenador");
 
                     b.Navigation("TorneoEquipos");
+                });
+
+            modelBuilder.Entity("Dominio.Escenario", b =>
+                {
+                    b.Navigation("Cancha");
                 });
 
             modelBuilder.Entity("Dominio.EscuelaArbitro", b =>

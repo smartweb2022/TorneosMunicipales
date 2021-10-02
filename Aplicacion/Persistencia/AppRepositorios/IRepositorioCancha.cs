@@ -10,7 +10,7 @@ namespace Persistencia
         bool CrearCancha (Cancha cancha);
         bool ActualizarCancha (Cancha cancha);
         bool EliminarCancha (int idCancha);
-        Arbitro BuscarCancha(int idCancha);
+        Cancha BuscarCancha(int idCancha);
     }
 
 }

@@ -8,7 +8,7 @@ namespace Persistencia
         //Metodos CRUD para clase Torneo
         IEnumerable<Torneo> ListarTorneos();
         bool CrearTorneo (Torneo torneo);
-        bool ActualizarTorneo (Escenario escenarios);
+        bool ActualizarTorneo (Torneo torneo);
         bool EliminarTorneo (int idTorneo);
         Torneo BuscarTorneo(int idTorneo);
     }

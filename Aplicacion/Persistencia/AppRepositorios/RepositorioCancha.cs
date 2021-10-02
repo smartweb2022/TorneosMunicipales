@@ -60,7 +60,7 @@ namespace Persistencia
             {
                 try
                 {
-                     _appContext.Cancha.Remove(cancha);
+                     _appContext.Canchas.Remove(cancha);
                      _appContext.SaveChanges();
                      eliminado=true;
                 }
