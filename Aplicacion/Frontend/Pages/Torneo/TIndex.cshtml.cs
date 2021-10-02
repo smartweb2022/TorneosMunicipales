@@ -16,13 +16,13 @@ namespace Frontend.Pages
         //Modelo u objeto para transportar hacia TIndex
         public IEnumerable<Torneo> Torneos {get; set;}
         //Cosntructor
-        public TIndexModel (Torneo repoTorneo)
+        public TIndexModel (IRepositorioTorneo repoTorneo)
         {
             this._repoTorneo= repoTorneo;
         }
         public void OnGet()
         {
-            Torneo = _repoTorneo.ListarTorneos();
+            Torneos = _repoTorneo.ListarTorneos();
         }
     }
 }

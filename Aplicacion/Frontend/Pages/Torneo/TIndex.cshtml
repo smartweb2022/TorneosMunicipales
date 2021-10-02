@@ -1,11 +1,11 @@
 ﻿@page
-@model Frontend.Pages.IndexModel
+@model Frontend.Pages.TIndexModel
 @{
-    ViewData["Title"] = TIndex;
+    ViewData["Title"] = "TIndex";
 }
 <h1>Lista de los Torneos</h1>
 <p>
-    <a asp-page="Create"> Crear torneo</a>
+    <a asp-page="Create"> Crear Torneo</a>
 </p>
 
 <table class="table"> 
@@ -14,7 +14,7 @@
             <th> Id </th>
             <th> Nombre </th>
             <th> Categoria </th>
-            <th> FechaFinal </th>
+            <th> FechaInicial </th>
             <th> FechaFinal </th>
             <th> Tipo </th>
         </tr>
@@ -26,7 +26,7 @@
             <td> @tor.Id </td>
             <td> @tor.Nombre </td>
             <td> @tor.Categoria </td>
-            <td> @tor.FechaFinal </td>
+            <td> @tor.FechaInicial </td>
             <td> @tor.FechaFinal </td>
             <td> @tor.Tipo </td>
             <td>
