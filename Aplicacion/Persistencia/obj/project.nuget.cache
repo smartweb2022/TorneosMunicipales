@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3bjVyQZ60KrrQsjFS6Z9zraWwzG/wT6TXPcl2yUFCByA3NGOJuUL0wzUhCuHKDVIGqeB8nGWZN/1bhJ7wwnCg==",
+  "dgSpecHash": "8ZqZajfy5IlFlmyPa1ioEXCWG3NSqAH+mLMFb9gr9RuZnssUaeg0HyxN9cZG2HWdVbdKAK9yUAeUToJP2alhvg==",
   "success": true,
-  "projectFilePath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRIST\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CRIST\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
