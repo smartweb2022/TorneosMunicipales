@@ -1,0 +1,33 @@
+﻿@page
+@model Frontend.Pages.IndexDeporModel
+@{
+    ViewData["Title"]= "IndexDepor";
+}
+<h1>Lista de Deportistas</h1>
+<p> 
+    <a asp-page= "Create"> Crear Deportista</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>   
+            <th> Nombre </th>
+            <th> Disciplina </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Depor in Model.Deportistas)
+        {
+        <tr>
+            <td> @Depor.Id </td>
+            <td> @Depor.Nombre </td>
+            <td>
+                <a asp-page="" asp-route-id="@Depor.Id">Editar</a>
+                <a asp-page=""asp-route-id="@Depor.Id">Eliminar</a>
+                <a asp-page=""asp-route-id="@Depor.Id">Detalles</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

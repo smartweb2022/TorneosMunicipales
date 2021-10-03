@@ -5737,45 +5737,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CRIST\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Miguel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj",
+      "projectUniqueName": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
-      "outputPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Frontend\\obj\\",
+      "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+      "outputPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj"
+            "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj": {
+              "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj"
             },
-            "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "X:\\CRISTHIAN\\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\\ciclo 3\\desarrollo de sofware\\TEAMS WEB\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj"
+            "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5807,7 +5797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
       }
     }
   }

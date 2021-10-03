@@ -36,6 +36,7 @@ namespace Frontend.Pages
             else
             {
                 //viewData["repoMunicipio"] = creado;
+                ViewData["Mensaje"] = "El municipio ya se encuentra registrado";
                 return Page();
             }
         }

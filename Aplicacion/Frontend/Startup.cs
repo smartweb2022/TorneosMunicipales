@@ -28,6 +28,8 @@ namespace Frontend
             services.AddRazorPages();
             //Inyecion de indepandencia
             services.AddScoped<IRepositorioMunicipio,RepositorioMunicipio>();
+            services.AddScoped<IRepositorioDeportista,RepositorioDeportista>();
+            services.AddScoped<IRepositorioEntrenador,RepositorioEntrenador>();
             //Registrar el contexto de datos
             services.AddDbContext<Persistencia.AppContext>();
         }
