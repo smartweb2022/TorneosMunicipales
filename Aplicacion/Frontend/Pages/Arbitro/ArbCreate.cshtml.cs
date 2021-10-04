@@ -9,18 +9,18 @@ using Persistencia;
 
 namespace Frontend.Pages
 {
-    public class CreateModel : PageModel
+    public class ArbCreateModel : PageModel
     {
         //Objeto para utilizar el repositorio
-        private readonly IRepositorioMunicipio _repoMunicipio;
+        private readonly IRepositorioArbitro _repoArbitro;
         //Propiedad para tarnsportar  al cshtml
 
         [BindProperty]
-        public Municipio Municipio{get;set;}
+        public Arbitro Arbitro{get;set;}
         // Constructor
-        public CreateModel(IRepositorioMunicipio repositorioMunicipio)
+        public ArbCreateModel(IRepositorioArbitro repositorioArbitro)
         {
-            this._repoMunicipio = repositorioMunicipio;
+            this._repoArbitro = repositorioArbitro;
         }
         public ActionResult OnGet()
         {
@@ -28,18 +28,17 @@ namespace Frontend.Pages
         }
         public ActionResult OnPost()
         {
-            bool creado = _repoMunicipio.CrearMunicipio(Municipio);
+            bool creado = _repoArbitro.CrearArbitro(Arbitro);
             if (creado)
             {
-                return RedirectToPage("./MiIndex");
+                return RedirectToPage("./ArbIndex");
             }
             else
             {
                 //viewData["repoMunicipio"] = creado;
-                ViewData["Mensaje"] = "El municipio ya se encuentra registrado";
+                ViewData["Mensaje"] = "El arbitro ya se encuentra registrado";
                 return Page();
             }
         }
     }
 }
-// arreglo conexion - cristhian
