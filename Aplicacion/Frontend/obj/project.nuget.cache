@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ehayh44FfdQaWYrAPPVkWyZdEDFu/C2qpvVFuoM1O04FI9TCurbaGuN+KGycib+mYW1D71cnvurBi2QDfK/9Xg==",
+  "dgSpecHash": "NYsxAAV+iicEupIfIUTYJgvVxp2t40Vg70GADTgKCWz7beNVWfgVABESboc0i187OV748xi+3EJnG42qKRttpw==",
   "success": true,
-  "projectFilePath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj",
+  "projectFilePath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

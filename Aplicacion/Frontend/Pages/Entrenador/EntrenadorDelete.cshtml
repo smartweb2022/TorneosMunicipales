@@ -1,0 +1,62 @@
+﻿@page
+@model Frontend.Pages.EntrenadorDeleteModel
+@{
+     ViewData["Title"]="EntrenadorDelete";
+}
+
+<h1>Eliminar Entrenador</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<h2>@ViewData["Mensaje2"]</h2>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="Entrenador.Id" >
+
+                <div class="form-group">
+                    <label asp-for="Entrenador.Nombres" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.Nombres" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Entrenador.Apellidos" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.Apellidos" readonly class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Entrenador.Documento" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.Documento" readonly class="form-control"/>
+                </div> 
+                <div class="form-group">
+                    <label asp-for="Entrenador.Genero" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.Genero" readonly class="form-control"/>
+                </div>
+        
+                <div class="form-group">
+                    <label asp-for="Entrenador.DisciplinaDeportiva" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.DisciplinaDeportiva" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Entrenador.EquipoId" readonly class="control-label"></label>
+                    <input asp-for="Entrenador.EquipoId" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Eliminar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="EntrenadorIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

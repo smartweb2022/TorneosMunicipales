@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj": {}
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\obj\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj": {
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\Frontend.csproj",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Frontend\\obj\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,11 +78,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj"
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
               },
-              "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj"
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Persistencia\\obj\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -140,8 +140,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "F:\\MisionTic\\Repositorio\\Aplicacion\\Dominio\\Dominio.csproj"
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
               }
             }
           }

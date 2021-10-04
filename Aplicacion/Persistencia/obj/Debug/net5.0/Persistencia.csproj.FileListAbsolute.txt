@@ -34,3 +34,21 @@ X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofwar
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
