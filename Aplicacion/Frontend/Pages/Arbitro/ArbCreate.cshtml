@@ -1,0 +1,63 @@
+﻿@page
+@model Frontend.Pages.ArbCreateModel
+@{
+    ViewData ["Title"]= "Create";
+}
+<h1>Crear Arbitro</h1>
+
+<h3>@ViewData["Mensaje"]</h3>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div> </div>
+                        <div class="form-group">
+                        <label asp-for="Arbitro.Identificacion" class="control-label"></label>
+                        <input asp-for="Arbitro.Identificacion" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Arbitro.Nombre" class="control-label"></label>
+                        <input asp-for="Arbitro.Nombre" class="form-control"/>
+                    </div>                    
+                        <div class="form-group">
+                        <label asp-for="Arbitro.Apellidos" class="control-label"></label>
+                        <input asp-for="Arbitro.Apellidos" class="form-control"/>
+                    </div>
+                        <div class="form-group">
+                        <label asp-for="Arbitro.Telefono" class="control-label"></label>
+                        <input asp-for="Arbitro.Correo" class="form-control"/>
+                    </div>
+                        <div class="form-group">
+                        <label asp-for="Arbitro.Correo" class="control-label"></label>
+                        <input asp-for="Arbitro.Correo" class="form-control"/>
+                    </div> 
+                        <div class="form-group">
+                        <label asp-for="Arbitro.Disiplina" class="control-label"></label>
+                        <input asp-for="Arbitro.Disiplina" class="form-control"/>
+                    </div>        
+                        <div class="form-group">
+                        <label asp-for="Arbitro.TorneoId" class="control-label"></label>
+                        <input asp-for="Arbitro.TorneoId" class="form-control"/>
+                    </div>
+                        <div class="form-group">
+                        <label asp-for="Arbitro.EscuelaArbitroId" class="control-label"></label>
+                        <input asp-for="Arbitro.EscuelaArbitroId" class="form-control"/>
+                    </div>                                                                       
+                    <div class="form-group">
+                        <input type="submit" value="Crear" class="btn btn-primary"/>
+                    </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="ArbIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

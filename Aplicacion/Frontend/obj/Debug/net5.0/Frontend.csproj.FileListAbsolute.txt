@@ -307,3 +307,8 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\ref\Frontend.dll
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbCreate.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDelete.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbEdit.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbIndex.cshtml.g.cs
