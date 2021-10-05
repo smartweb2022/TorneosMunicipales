@@ -164,7 +164,7 @@ namespace Persistencia.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Documento = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Apelldos = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Genero = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Rh = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     EPS = table.Column<string>(type: "nvarchar(max)", nullable: true),

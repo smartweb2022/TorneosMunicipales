@@ -9,18 +9,18 @@ using Persistencia;
 
 namespace Frontend.Pages
 {
-    public class CreateModel : PageModel
+    public class CreateDeporModel : PageModel
     {
         //Objeto para utilizar el repositorio
-        private readonly IRepositorioMunicipio _repoMunicipio;
+        private readonly IRepositorioDeportista _repoDeportista;
         //Propiedad para tarnsportar  al cshtml
 
         [BindProperty]
-        public Municipio Municipio{get;set;}
+        public Deportista Deportista{get;set;}
         // Constructor
-        public CreateModel(IRepositorioMunicipio repositorioMunicipio)
+        public CreateDeporModel(IRepositorioDeportista repositorioDeportista)
         {
-            this._repoMunicipio = repositorioMunicipio;
+            this._repoDeportista = repositorioDeportista;
         }
         public ActionResult OnGet()
         {
@@ -28,15 +28,15 @@ namespace Frontend.Pages
         }
         public ActionResult OnPost()
         {
-            bool creado = _repoMunicipio.CrearMunicipio(Municipio);
+            bool creado = _repoDeportista.CrearDeportista(Deportista);
             if (creado)
             {
-                return RedirectToPage("./MiIndex");
+                return RedirectToPage("./IndexDeport");
             }
             else
             {
-                //viewData["repoMunicipio"] = creado;
-                ViewData["Mensaje"] = "El municipio ya se encuentra registrado";
+                //viewData["repoDeportista"] = creado;
+                ViewData["Mensaje"] = "El deportista ya se encuentra registrado";
                 return Page();
             }
         }
