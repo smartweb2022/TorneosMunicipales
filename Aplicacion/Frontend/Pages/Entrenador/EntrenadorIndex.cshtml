@@ -5,14 +5,16 @@
 }
 <h1>Lista de Entrenadores</h1>
 <p> 
-    <a asp-page= "Create"> Crear Entrenador</a>
+    <a asp-page= "CreateEntrenador"> Crear Entrenador</a>
 </p>
 
 <table class="table">
     <thead>
         <tr>
             <th> Id </th>   
-            <th> Nombre </th>
+            <th> Nombres </th>
+            <th> Apellidos </th>
+            <th> DisciplinaDeportiva </th>
         </tr>
     </thead>
     <tbody>
@@ -21,10 +23,12 @@
         <tr>
             <td> @Entre.Id </td>
             <td> @Entre.Nombres </td>
+            <td> @Entre.Apellidos </td>
+            <td> @Entre.DisciplinaDeportiva </td>
             <td>
-                <a asp-page="./EditMuni" asp-route-id="@Entre.Id">Editar</a>
-                <a asp-page="./DeleteMuni"asp-route-id="@Entre.Id">Eliminar</a>
-                <a asp-page="./DetailsMuni"asp-route-id="@Entre.Id">Detalles</a>
+                <a asp-page="./EditEntrenador" asp-route-id="@Entre.Id">Editar</a>
+                <a asp-page="./DeleteEntrenador"asp-route-id="@Entre.Id">Eliminar</a>
+                <a asp-page="./DetailsEntrenador"asp-route-id="@Entre.Id">Detalles</a>
             </td>
         </tr>
         }

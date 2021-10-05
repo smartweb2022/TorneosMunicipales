@@ -31,7 +31,7 @@ namespace Frontend.Pages
             bool creado = _repoDeportista.CrearDeportista(Deportista);
             if (creado)
             {
-                return RedirectToPage("./IndexDeport");
+                return RedirectToPage("./IndexDepor");
             }
             else
             {
