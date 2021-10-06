@@ -41,6 +41,11 @@ namespace Persistencia
             {
                 try 
                 {
+                    entre.Nombres=entrenador.Nombres;
+                    entre.Apellidos=entrenador.Apellidos;
+                    entre.Genero=entrenador.Genero;
+                    entre.DisciplinaDeportiva=entrenador.DisciplinaDeportiva;
+                    entre.EquipoId=entrenador.EquipoId;
                     entre.Documento = entrenador.Documento;
                     _appContext.SaveChanges();
                     actualizado = true;

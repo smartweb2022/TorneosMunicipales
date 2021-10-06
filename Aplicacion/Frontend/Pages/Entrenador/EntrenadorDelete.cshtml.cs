@@ -7,32 +7,34 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Persistencia;
 
+
 namespace Frontend.Pages
 {
-    public class ArbEditModel : PageModel
+    public class EntrenadorDeleteModel : PageModel
     {
         //Referenciar el repositorio
-        private readonly IRepositorioArbitro repoArbitro;
+        private readonly IRepositorioEntrenador repoEntrenador;
         
         //Constructor
-        public ArbEditModel(IRepositorioArbitro _repoArbitro){
-            this.repoArbitro=_repoArbitro;
+        public EntrenadorDeleteModel(IRepositorioEntrenador _repoEntrenador){
+            this.repoEntrenador=_repoEntrenador;
         }
 
         //Propiedad para comunicacion con el cshtml
         [BindProperty]
-        public Arbitro Arbitro{get;set;}
+        public Entrenador Entrenador{get;set;}
 
         public ActionResult OnGet(int id)
         {
-            Arbitro=repoArbitro.BuscarArbitro(id);
+            ViewData["Mensaje2"]="¿Está seguro de eliminar el registro?";
+            Entrenador=repoEntrenador.BuscarEntrenador(id);
             return Page();
         }
 
         public ActionResult OnPost(){            
-            bool funciono = repoArbitro.ActualizarArbitro(Arbitro);
+            bool funciono = repoEntrenador.EliminarEntrenador(Entrenador.Id);
             if(funciono){
-                return RedirectToPage("./ArbIndex");
+                return RedirectToPage("./EntrenadorIndex");
             }
             else{
                 ViewData["Mensaje"]="Se ha presentado un error...";

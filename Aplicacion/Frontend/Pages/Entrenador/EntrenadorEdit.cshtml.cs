@@ -9,36 +9,37 @@ using Persistencia;
 
 namespace Frontend.Pages
 {
-    public class ArbEditModel : PageModel
+    public class EntrenadorEditModel : PageModel
     {
         //Referenciar el repositorio
-        private readonly IRepositorioArbitro repoArbitro;
+        private readonly IRepositorioEntrenador repoEntrenador;
         
         //Constructor
-        public ArbEditModel(IRepositorioArbitro _repoArbitro){
-            this.repoArbitro=_repoArbitro;
+        public EntrenadorEditModel(IRepositorioEntrenador _repoEntrenador){
+            this.repoEntrenador=_repoEntrenador;
         }
 
         //Propiedad para comunicacion con el cshtml
         [BindProperty]
-        public Arbitro Arbitro{get;set;}
+        public Entrenador Entrenador{get;set;}
+
 
         public ActionResult OnGet(int id)
         {
-            Arbitro=repoArbitro.BuscarArbitro(id);
+            Entrenador=repoEntrenador.BuscarEntrenador(id);
             return Page();
         }
 
         public ActionResult OnPost(){            
-            bool funciono = repoArbitro.ActualizarArbitro(Arbitro);
+            bool funciono = repoEntrenador.ActualizarEntrenador(Entrenador);
             if(funciono){
-                return RedirectToPage("./ArbIndex");
+                return RedirectToPage("./EntrenadorIndex");
             }
             else{
                 ViewData["Mensaje"]="Se ha presentado un error...";
                 return Page();
             }
-              
+  
         }
     }
 }

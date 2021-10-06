@@ -34,6 +34,20 @@ X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofwar
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
+<<<<<<< HEAD
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
+=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
@@ -46,3 +60,4 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
+>>>>>>> ecd87d5244a8e4ddef80f9e02128be52600312ff
