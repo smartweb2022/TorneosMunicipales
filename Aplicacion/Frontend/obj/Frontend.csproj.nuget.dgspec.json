@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\obj\\",
+=======
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {}
+  },
+  "projects": {
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,6 +76,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -70,6 +85,16 @@
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\obj\\",
+=======
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+        "projectName": "Frontend",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +115,19 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj"
               },
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj"
+=======
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+              },
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
               }
             }
           }
@@ -130,6 +163,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -138,6 +172,16 @@
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\obj\\",
+=======
+    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,8 +202,13 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj"
+=======
+              "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
               }
             }
           }

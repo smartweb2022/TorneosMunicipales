@@ -41,4 +41,9 @@ namespace Frontend.Pages
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+// arreglo conexion - cristhian
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795

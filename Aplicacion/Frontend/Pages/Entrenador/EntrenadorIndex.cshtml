@@ -5,16 +5,25 @@
 }
 <h1>Lista de Entrenadores</h1>
 <p> 
+<<<<<<< HEAD
     <a asp-page= "CreateEntrenador"> Crear Entrenador</a>
+=======
+    <a asp-page= "EntrenadorCreate"> Crear Entrenador</a>
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
 </p>
 
 <table class="table">
     <thead>
         <tr>
             <th> Id </th>   
+<<<<<<< HEAD
             <th> Nombres </th>
             <th> Apellidos </th>
             <th> DisciplinaDeportiva </th>
+=======
+            <th> Nombre </th>
+            <th> Disciplina </th>
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
         </tr>
     </thead>
     <tbody>
@@ -23,12 +32,20 @@
         <tr>
             <td> @Entre.Id </td>
             <td> @Entre.Nombres </td>
+<<<<<<< HEAD
             <td> @Entre.Apellidos </td>
             <td> @Entre.DisciplinaDeportiva </td>
             <td>
                 <a asp-page="./EditEntrenador" asp-route-id="@Entre.Id">Editar</a>
                 <a asp-page="./DeleteEntrenador"asp-route-id="@Entre.Id">Eliminar</a>
                 <a asp-page="./DetailsEntrenador"asp-route-id="@Entre.Id">Detalles</a>
+=======
+            <td> @Entre.DisciplinaDeportiva </td>
+            <td>
+                <a asp-page="./EntrenadorEdit" asp-route-id="@Entre.Id">Editar</a>
+                <a asp-page="./EntrenadorDelete"asp-route-id="@Entre.Id">Eliminar</a>
+                <a asp-page="./EntrenadorDetails"asp-route-id="@Entre.Id">Detalles</a>
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
             </td>
         </tr>
         }

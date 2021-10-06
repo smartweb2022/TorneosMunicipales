@@ -34,6 +34,7 @@ X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofwar
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
@@ -52,3 +53,44 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+=======
+<<<<<<< HEAD
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+=======
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+>>>>>>> ecd87d5244a8e4ddef80f9e02128be52600312ff
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
