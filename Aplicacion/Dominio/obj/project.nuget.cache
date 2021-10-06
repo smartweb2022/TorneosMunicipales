@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "oeud1FzrVb0IsNWgUekFRAFwXfNTzXLnvgYWlBN7L5I5QLnRu34h0dK8e8SfQwE2jDf+/K7RXIvSZ0JNdYVKFA==",
+  "dgSpecHash": "QECffkz/e/sCEAKpKSIcbtc/pyGq22mZEztYnKReCwMJoj1z8pH0Sc0QNAItKfOzUPBrrKIWLuiSQT39VxyPDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
+  "projectFilePath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
