@@ -408,3 +408,4 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDelete.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
