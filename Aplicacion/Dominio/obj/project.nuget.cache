@@ -1,12 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "oeud1FzrVb0IsNWgUekFRAFwXfNTzXLnvgYWlBN7L5I5QLnRu34h0dK8e8SfQwE2jDf+/K7RXIvSZ0JNdYVKFA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-=======
   "dgSpecHash": "KsgOtP1r3WJ8gs1Gh4HCmwYe2iWxoL0JLngCrwqxV3Rn6gMOr0Zfw3Mp4h9Pq4zt002i6iZ3uORjhJVReFZ6kg==",
   "success": true,
   "projectFilePath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj",
@@ -19,5 +12,4 @@
       "message": "Problema al leer el archivo de caché D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
->>>>>>> dab6b441380e15e25c8a41a2e225eadef05736db
 }
