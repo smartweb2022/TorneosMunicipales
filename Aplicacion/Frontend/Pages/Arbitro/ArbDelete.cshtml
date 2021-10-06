@@ -1,4 +1,73 @@
 ﻿@page
 @model Frontend.Pages.ArbDeleteModel
 @{
+    ViewData["Title"]="Eliminar";
 }
+
+<h1>Eliminar Arbitro</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<h2>@ViewData["Mensaje2"]</h2>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="Arbitro.Id" >
+                <div class="form-group">
+                    <label asp-for="Arbitro.Identificacion" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Identificacion" readonly class="form-control"/>
+                </div>           
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.Nombre" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Nombre" readonly class="form-control"/>
+                </div>    
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.Apellidos" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Apellidos" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.Telefono" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Telefono" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.Correo" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Correo" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.Disiplina" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.Disiplina" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.TorneoId" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.TorneoId" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Arbitro.EscuelaArbitroId" readonly class="control-label"></label>
+                    <input asp-for="Arbitro.EscuelaArbitroId" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Eliminar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="ArbIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
