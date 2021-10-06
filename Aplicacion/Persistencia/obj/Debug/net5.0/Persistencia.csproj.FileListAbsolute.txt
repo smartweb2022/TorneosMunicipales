@@ -54,7 +54,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
 =======
-<<<<<<< HEAD
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
@@ -73,7 +72,6 @@ F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persis
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 F:\Escritorio\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
-=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json

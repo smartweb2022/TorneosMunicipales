@@ -5743,19 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj",
       "projectName": "Frontend",
       "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\obj\\",
-=======
-      "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
->>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5776,19 +5768,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj": {
               "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj"
             },
             "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj": {
               "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Persistencia\\Persistencia.csproj"
-=======
-            "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
-            },
-            "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
->>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
             }
           }
         }
@@ -5829,7 +5813,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema al leer el archivo de caché D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

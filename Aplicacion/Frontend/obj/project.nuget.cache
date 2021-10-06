@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "sMBPEc22KdkBf/P+8OwlpFydLinxOn8baY4oYq2NtBvgTChrPU6d8k2ak94l/UYsLT3PlaUNYPNhk5REJ13nxw==",
   "success": true,
   "projectFilePath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\Frontend.csproj",
-=======
-  "dgSpecHash": "NYsxAAV+iicEupIfIUTYJgvVxp2t40Vg70GADTgKCWz7beNVWfgVABESboc0i187OV748xi+3EJnG42qKRttpw==",
-  "success": true,
-  "projectFilePath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
->>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -110,7 +104,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema al leer el archivo de caché D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

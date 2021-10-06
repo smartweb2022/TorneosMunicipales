@@ -48,7 +48,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
 =======
-<<<<<<< HEAD
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
@@ -61,7 +60,6 @@ F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csp
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 F:\Escritorio\Repositorio Github\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
-=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll

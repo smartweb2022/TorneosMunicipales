@@ -311,7 +311,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
 =======
-<<<<<<< HEAD
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -396,7 +395,6 @@ F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Page
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDelete.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
-=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
