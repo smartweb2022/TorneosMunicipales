@@ -1,0 +1,62 @@
+﻿@page
+@model Frontend.Pages.EscArbDeleteModel
+@{
+     ViewData["Title"]="EscArbDelete";
+}
+
+<h1>Eliminar Escuela-Arbitro</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<h2>@ViewData["Mensaje2"]</h2>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="EscuelaArbitro.Id" >
+
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Nit" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Nit" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Nombre" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Nombre" readonly class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Resolucion" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Resolucion" readonly class="form-control"/>
+                </div> 
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Direccion" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Direccion" readonly class="form-control"/>
+                </div>
+        
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Correo" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Correo" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Telefono" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Telefono" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Eliminar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="EscArbIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

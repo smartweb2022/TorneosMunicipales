@@ -486,13 +486,10 @@ F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Page
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbEdit.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbIndex.cshtml.g.cs
-<<<<<<< HEAD
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorCreate.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDelete.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
->>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
-=======
 >>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbCreate.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDelete.cshtml.g.cs
@@ -504,3 +501,10 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
 >>>>>>> dab6b441380e15e25c8a41a2e225eadef05736db
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbCreate.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbIndex.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDelete.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDetails.cshtml.g.cs
+C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbEdit.cshtml.g.cs
