@@ -501,3 +501,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
 >>>>>>> dab6b441380e15e25c8a41a2e225eadef05736db
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
