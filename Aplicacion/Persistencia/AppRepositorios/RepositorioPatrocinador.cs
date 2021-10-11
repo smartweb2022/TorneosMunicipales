@@ -41,7 +41,11 @@ namespace Persistencia
             {
                 try 
                 {
+                    patro.Identificacion = patrocinador.Identificacion;
                     patro.Nombre = patrocinador.Nombre;
+                    patro.TipoPersona = patrocinador.TipoPersona;
+                    patro.Direccion = patrocinador.Direccion;
+                    patro.Telefono = patrocinador.Telefono;
                     _appContext.SaveChanges();
                     actualizado = true;
                 }

@@ -31,6 +31,7 @@ namespace Frontend
             services.AddScoped<IRepositorioDeportista,RepositorioDeportista>();
             services.AddScoped<IRepositorioEntrenador,RepositorioEntrenador>();
             services.AddScoped<IRepositorioArbitro,RepositorioArbitro>();
+            services.AddScoped<IRepositorioPatrocinador,RepositorioPatrocinador>();
             //Registrar el contexto de datos
             services.AddDbContext<Persistencia.AppContext>();
         }

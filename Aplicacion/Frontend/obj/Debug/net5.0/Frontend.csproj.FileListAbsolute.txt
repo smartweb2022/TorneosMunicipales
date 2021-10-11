@@ -504,3 +504,5 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
