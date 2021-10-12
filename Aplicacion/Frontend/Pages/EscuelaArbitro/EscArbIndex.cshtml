@@ -1,0 +1,32 @@
+﻿@page
+@model Frontend.Pages.EscArbIndexModel
+@{
+        ViewData["Title"]= "EscArbIndex";
+}
+<h1>Lista de Escuela Arbitro</h1>
+<p> 
+    <a asp-page= "EscArbCreate"> Crear Escuela Arbitro</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>   
+            <th> Nombre </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var EscArb in Model.EscuelaArbitros)
+        {
+        <tr>
+            <td> @EscArb.Id </td>
+            <td> @EscArb.Nombre </td>
+            <td>
+                <a asp-page="./EscArbEdit" asp-route-id="@EscArb.Id">Editar</a>
+                <a asp-page="./EscArbDelete"asp-route-id="@EscArb.Id">Eliminar</a>
+                <a asp-page="./EscArbDetails"asp-route-id="@EscArb.Id">Detalles</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

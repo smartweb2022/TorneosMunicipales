@@ -1,0 +1,58 @@
+﻿@page
+@model Frontend.Pages.EscArbDetailsModel
+@{
+    ViewData["Title"]="EscArbDetails";
+}
+
+<h1>Detalles Escuela-Arbitro</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="EscuelaArbitro.Id" >
+                
+                 <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Nit" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Nit" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Nombre" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Nombre" readonly class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Resolucion" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Resolucion" readonly class="form-control"/>
+                </div> 
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Direccion" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Direccion" readonly class="form-control"/>
+                </div>
+        
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Correo" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Correo" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="EscuelaArbitro.Telefono" readonly class="control-label"></label>
+                    <input asp-for="EscuelaArbitro.Telefono" readonly class="form-control"/>
+                </div>                   
+                
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="EscArbIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
