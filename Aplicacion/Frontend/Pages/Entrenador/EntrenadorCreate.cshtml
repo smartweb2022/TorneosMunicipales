@@ -29,18 +29,34 @@
                     </div> 
                     <div class="form-group">
                         <label asp-for="Entrenador.Genero" class="control-label"></label>
-                        <input asp-for="Entrenador.Genero" class="form-control"/>
-                    </div>
-            
-                    <div class="form-group">
-                        <label asp-for="Entrenador.DisciplinaDeportiva" class="control-label"></label>
-                        <input asp-for="Entrenador.DisciplinaDeportiva" class="form-control"/>
+                        <select asp-for="Entrenador.Genero" class="form-control">
+                            <option value="--Seleccione un género--">--Seleccione un género--</option>
+                            <option value="Masculino">Masculino</option>
+                            <option value="Femenino">Femenino</option>
+                            <option value="Otro">Otro</option>
+                            <option value="Prefiero no decir">Prefiero no decir</option>
+                        </select>
                     </div>
 
                     <div class="form-group">
-                        <label asp-for="Entrenador.EquipoId" class="control-label"></label>
-                        <input asp-for="Entrenador.EquipoId" class="form-control"/>
+                        <label asp-for="Entrenador.EquipoId" class="control-label">Equipo</label>
+                        <select asp-for="Entrenador.EquipoId" class="form-control">
+                            <option value="">--Seleccione un Equipo--</option>
+                            @foreach (var equi in Model.Equipos)
+                            {
+                                <option value="@equi.Id">@equi.Nombre</option>
+                            }
+                            
+                        </select>
+                        
                     </div>
+            
+                    <div class="form-group">
+                        <label asp-for="Entrenador.DisciplinaDeportiva" class="control-label">Disciplina Deportiva</label>                
+                        <input asp-for="Entrenador.DisciplinaDeportiva" class="form-control"/>
+                    </div>
+
+                    
 
                     <div class="form-group">
                         <input type="submit" value="Crear" class="btn btn-primary"/>

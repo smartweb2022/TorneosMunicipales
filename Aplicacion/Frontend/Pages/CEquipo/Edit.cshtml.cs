@@ -7,46 +7,46 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Persistencia;
 
-namespace Frontend.Pages
+namespace Frontend.Pages.CEquipo
 {
-    public class EntrenadorEditModel : PageModel
+    public class EditModel : PageModel
     {
         //Referenciar el repositorio
-        private readonly IRepositorioEntrenador _repoEntrenador;
         private readonly IRepositorioEquipo _repoEquipo;
+        private readonly IRepositorioPatrocinador _repoPatrocinador;
 
         //Propiedad para comunicacion con el cshtml
         [BindProperty]
-        public Entrenador Entrenador{get;set;}
-        public IEnumerable<Equipo> Equipos{get;set;}
         public Equipo Equipo{get;set;}
+        public IEnumerable<Patrocinador> Patrocinadores{get;set;}
+        public IEnumerable<Equipo> Equipos{get;set;}
+        public Patrocinador Patrocinador{get;set;}
         
         //Constructor
-        public EntrenadorEditModel(IRepositorioEntrenador repoEntrenador, IRepositorioEquipo repoEquipo){
-            this._repoEntrenador=repoEntrenador;
+        public EditModel(IRepositorioEquipo repoEquipo, IRepositorioPatrocinador repoPatrocinador){
+            this._repoPatrocinador=repoPatrocinador;
             this._repoEquipo = repoEquipo;
         }
 
-
-        public ActionResult OnGet(int id)
+       public ActionResult OnGet(int id)
         {
-            Entrenador=_repoEntrenador.BuscarEntrenador(id);
-            if(Entrenador!=null){
-                Equipos=_repoEquipo.ListarEquipos();
+            Equipo=_repoEquipo.BuscarEquipo(id);
+            if(Equipo!=null){
+                Patrocinadores=_repoPatrocinador.ListarPatrocinadores();
                 return Page();
             }
             else
             {
-                return RedirectToPage("./EntrenadorIndex");
+                return RedirectToPage("./Index");
             }
             
         }
 
         public ActionResult OnPost(){            
-            bool funciono = _repoEntrenador.ActualizarEntrenador(Entrenador);
+            bool funciono = _repoEquipo.ActualizarEquipo(Equipo);
             Equipos= _repoEquipo.ListarEquipos();
             if(funciono){
-                return RedirectToPage("./EntrenadorIndex");
+                return RedirectToPage("./Index");
             }
             else{
                 ViewData["Mensaje"]="Se ha presentado un error...";

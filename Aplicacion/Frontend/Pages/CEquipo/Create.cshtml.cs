@@ -7,40 +7,42 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Persistencia;
 
-namespace Frontend.Pages
+namespace Frontend.Pages.CEquipo
 {
-    public class EntrenadorCreateModel : PageModel
+    public class CreateModel : PageModel
     {
         //Objeto para utilizar el repositorio
-        private readonly IRepositorioEntrenador _repoEntrenador;
         private readonly IRepositorioEquipo _repoEquipo;
+        private readonly IRepositorioPatrocinador _repoPatrocinador;
         //Propiedad para tarnsportar  al cshtml
 
         [BindProperty]
-        public Entrenador Entrenador{get;set;}
-        public IEnumerable<Equipo> Equipos{get;set;}
-        // Constructor
-        public EntrenadorCreateModel(IRepositorioEntrenador repositorioEntrenador, IRepositorioEquipo repoEquipo)
+        public Equipo Equipo{get;set;}
+        public IEnumerable<Patrocinador> Patrocinadores{get;set;}
+
+         // Constructor
+        public CreateModel(IRepositorioEquipo repoEquipo, IRepositorioPatrocinador repoPatrocinador)
         {
-            this._repoEntrenador = repositorioEntrenador;
+            this._repoPatrocinador = repoPatrocinador;
             this._repoEquipo = repoEquipo;
         }
+        
         public ActionResult OnGet()
         {
-            Equipos=_repoEquipo.ListarEquipos();
+            Patrocinadores=_repoPatrocinador.ListarPatrocinadores();
             return Page();
         }
         public ActionResult OnPost()
         {
-            bool creado = _repoEntrenador.CrearEntrenador(Entrenador);
+            bool creado = _repoEquipo.CrearEquipo(Equipo);
             if (creado)
             {
-                return RedirectToPage("./EntrenadorIndex");
+                return RedirectToPage("./Index");
             }
             else
             {
                 //viewData["repoMunicipio"] = creado;
-                Equipos=_repoEquipo.ListarEquipos();
+                Patrocinadores=_repoPatrocinador.ListarPatrocinadores();
                 ViewData["Mensaje"] = "El Entrenador ya se encuentra registrado";
                 return Page();
             }

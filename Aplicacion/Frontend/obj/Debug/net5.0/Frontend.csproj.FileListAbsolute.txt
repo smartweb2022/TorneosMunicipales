@@ -404,3 +404,8 @@ F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Page
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbEdit.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbIndex.cshtml.g.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Create.cshtml.g.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Delete.cshtml.g.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Details.cshtml.g.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Index.cshtml.g.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Edit.cshtml.g.cs
