@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/sebasua/.nuget/packages/": {}
+    "C:\\Users\\57301\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj",
-      "packagesPath": "/home/sebasua/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/obj/",
+      "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sebasua/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5814,19 +5814,19 @@
     ]
   },
   "packageFolders": {
-    "/home/sebasua/.nuget/packages/": {}
+    "C:\\Users\\57301\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj",
-      "packagesPath": "/home/sebasua/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/obj/",
+      "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sebasua/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5838,8 +5838,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj": {
-              "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj"
+            "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
             }
           }
         }
@@ -5890,7 +5890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

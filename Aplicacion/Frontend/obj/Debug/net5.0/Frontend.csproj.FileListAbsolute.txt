@@ -616,3 +616,4 @@ C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Fronte
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\ref\Frontend.dll
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
