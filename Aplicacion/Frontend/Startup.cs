@@ -27,14 +27,20 @@ namespace Frontend
         {
             services.AddRazorPages();
             //Inyecion de indepandencia
-            services.AddScoped<IRepositorioMunicipio,RepositorioMunicipio>();
+            services.AddScoped<IRepositorioArbitro,RepositorioArbitro>();
+            services.AddScoped<IRepositorioCancha,RepositorioCancha>();
             services.AddScoped<IRepositorioDeportista,RepositorioDeportista>();
             services.AddScoped<IRepositorioEntrenador,RepositorioEntrenador>();
-            services.AddScoped<IRepositorioArbitro,RepositorioArbitro>();
             services.AddScoped<IRepositorioEquipo,RepositorioEquipo>();
-            services.AddScoped<IRepositorioPatrocinador,RepositorioPatrocinador>();
             services.AddScoped<IRepositorioEscenario,RepositorioEscenario>();
-            services.AddScoped<IRepositorioCancha,RepositorioCancha>();
+            services.AddScoped<IRepositorioEscuelaArbitro,RepositorioEscuelaArbitro>();
+            services.AddScoped<IRepositorioMunicipio,RepositorioMunicipio>();
+            services.AddScoped<IRepositorioPatrocinador,RepositorioPatrocinador>();
+            services.AddScoped<IRepositorioTorneo,RepositorioTorneo>();
+            services.AddScoped<IRepositorioEquipo,RepositorioEquipo>();
+
+
+
             //Registrar el contexto de datos
             services.AddDbContext<Persistencia.AppContext>();
         }

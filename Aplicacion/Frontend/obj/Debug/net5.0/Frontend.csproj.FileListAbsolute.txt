@@ -617,3 +617,15 @@ C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Fronte
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbCreate.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDelete.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDetails.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbEdit.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs

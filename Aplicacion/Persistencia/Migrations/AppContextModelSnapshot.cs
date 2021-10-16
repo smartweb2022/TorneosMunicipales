@@ -98,7 +98,7 @@ namespace Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Apelldos")
+                    b.Property<string>("Apellidos")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Direccion")

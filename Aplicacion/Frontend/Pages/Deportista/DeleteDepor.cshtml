@@ -1,0 +1,39 @@
+﻿@page
+@model Frontend.Pages.DeleteDeporModel
+@{
+    ViewData["Title"]="Eliminar";
+}
+
+<h1>Eliminar Deportista</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<h2>@ViewData["Mensaje2"]</h2>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="Deportista.Id" >
+                <div class="form-group">
+                    <label asp-for="Deportista.Id" readonly class="control-label"></label>
+                    <input asp-for="Deportista.Id" readonly class="form-control"/>
+                    <label asp-for="Deportista.Nombre" readonly class="control-label"></label>
+                    <input asp-for="Deportista.Nombre" readonly class="form-control"/>
+                    
+                </div>                    
+                <div class="form-group">
+                    <input type="submit" value="Eliminar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="IndexDepor">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

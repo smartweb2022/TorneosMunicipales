@@ -14,7 +14,7 @@ namespace Frontend.Pages
         //Crear un objeto para uso de los repositorios
         private readonly IRepositorioDeportista _repoDeportista;
 
-        //Modelo u objeto para transportar hacia Mindex 
+        //Modelo u objeto para transportar hacia IndexDepor 
         public IEnumerable<Deportista> Deportistas {get; set;}
 
         //Constructor
