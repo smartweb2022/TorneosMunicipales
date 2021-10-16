@@ -18,4 +18,4 @@ namespace Dominio
         public int EscenarioId{get;set;}
 
     }
-}
+}//hola 
