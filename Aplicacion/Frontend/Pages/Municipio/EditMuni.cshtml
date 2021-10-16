@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@page
 @model Frontend.Pages.EditMuniModel
 @{
@@ -35,3 +36,41 @@
     }
 }
 
+=======
+﻿@page
+@model Frontend.Pages.EditMuniModel
+@{
+    ViewData["Title"]="Editar";
+}
+
+<h1>Editar Municipio</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"> </div>
+                <input type="hidden" asp-for="Municipio.Id" >
+                <div class="form-group">
+                    <label asp-for="Municipio.Nombre" class="control-label"></label>
+                    <input asp-for="Municipio.Nombre" class="form-control"/>
+                    <span asp-validation-for="Municipio.Nombre" class="text-danger"></span>
+                </div>                    
+                <div class="form-group">
+                    <input type="submit" value="Modificar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="MiIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b

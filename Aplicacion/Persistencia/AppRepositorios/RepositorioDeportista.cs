@@ -41,7 +41,17 @@ namespace Persistencia
             {
                 try 
                 {
+                    deport.Documento = deportista.Documento;
                     deport.Nombre = deportista.Nombre;
+                    deport.Apellidos = deportista.Apellidos;
+                    deport.Genero = deportista.Genero;
+                    deport.Rh = deportista.Rh;
+                    deport.EPS = deportista.EPS;
+                    deport.FechaNacimiento = deportista.FechaNacimiento;
+                    deport.Disciplina = deportista.Disciplina;
+                    deport.Direccion = deportista.Direccion;
+                    deport.NumeroEmergencia = deportista.NumeroEmergencia;
+                    deport.EquipoId = deportista.EquipoId;
                     _appContext.SaveChanges();
                     actualizado = true;
                 }

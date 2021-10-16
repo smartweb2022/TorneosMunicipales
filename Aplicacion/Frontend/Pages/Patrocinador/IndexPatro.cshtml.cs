@@ -28,4 +28,8 @@ namespace Frontend.Pages
             Patrocinadores = _repoPatrocinador.ListarPatrocinadores();
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b

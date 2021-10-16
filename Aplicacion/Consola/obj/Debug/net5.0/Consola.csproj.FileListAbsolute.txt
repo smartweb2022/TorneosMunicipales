@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
@@ -270,3 +271,280 @@ C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Consol
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+=======
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+X:\CRISTHIAN\CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL\ciclo 3\desarrollo de sofware\TEAMS WEB\TorneosMunicipales\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+<<<<<<< HEAD
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+=======
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.csprojAssemblyReference.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+F:\Escritorio\Repositorio Github\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+>>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
