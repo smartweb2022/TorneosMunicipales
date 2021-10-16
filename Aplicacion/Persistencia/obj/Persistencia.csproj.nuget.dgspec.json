@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {}
+    "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj",
+        "packagesPath": "/home/sebasua/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/sebasua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
+        "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/sebasua/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/sebasua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+              "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj": {
+                "projectPath": "/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Dominio/Dominio.csproj"
               }
             }
           }
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
