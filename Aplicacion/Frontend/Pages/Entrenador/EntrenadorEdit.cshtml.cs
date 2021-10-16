@@ -12,26 +12,39 @@ namespace Frontend.Pages
     public class EntrenadorEditModel : PageModel
     {
         //Referenciar el repositorio
-        private readonly IRepositorioEntrenador repoEntrenador;
-        
-        //Constructor
-        public EntrenadorEditModel(IRepositorioEntrenador _repoEntrenador){
-            this.repoEntrenador=_repoEntrenador;
-        }
+        private readonly IRepositorioEntrenador _repoEntrenador;
+        private readonly IRepositorioEquipo _repoEquipo;
 
         //Propiedad para comunicacion con el cshtml
         [BindProperty]
         public Entrenador Entrenador{get;set;}
+        public IEnumerable<Equipo> Equipos{get;set;}
+        public Equipo Equipo{get;set;}
+        
+        //Constructor
+        public EntrenadorEditModel(IRepositorioEntrenador repoEntrenador, IRepositorioEquipo repoEquipo){
+            this._repoEntrenador=repoEntrenador;
+            this._repoEquipo = repoEquipo;
+        }
 
 
         public ActionResult OnGet(int id)
         {
-            Entrenador=repoEntrenador.BuscarEntrenador(id);
-            return Page();
+            Entrenador=_repoEntrenador.BuscarEntrenador(id);
+            if(Entrenador!=null){
+                Equipos=_repoEquipo.ListarEquipos();
+                return Page();
+            }
+            else
+            {
+                return RedirectToPage("./EntrenadorIndex");
+            }
+            
         }
 
         public ActionResult OnPost(){            
-            bool funciono = repoEntrenador.ActualizarEntrenador(Entrenador);
+            bool funciono = _repoEntrenador.ActualizarEntrenador(Entrenador);
+            Equipos= _repoEquipo.ListarEquipos();
             if(funciono){
                 return RedirectToPage("./EntrenadorIndex");
             }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

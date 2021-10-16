@@ -32,8 +32,13 @@
                 </div> 
                 <div class="form-group">
                     <label asp-for="Entrenador.Genero" class="control-label"></label>
-                    <input asp-for="Entrenador.Genero" class="form-control"/>
-                    <span asp-validation-for="Entrenador.Genero" class="text-danger"></span>
+                    <select asp-for="Entrenador.Genero" class="form-control">
+                        <option value="--Seleccione un género--">--Seleccione un género--</option>
+                        <option value="Masculino">Masculino</option>
+                        <option value="Femenino">Femenino</option>
+                        <option value="Otro">Otro</option>
+                        <option value="Prefiero no decir">Prefiero no decir</option>
+                    </select>
                 </div>
         
                 <div class="form-group">
@@ -44,8 +49,13 @@
 
                 <div class="form-group">
                     <label asp-for="Entrenador.EquipoId" class="control-label"></label>
-                    <input asp-for="Entrenador.EquipoId" class="form-control"/>
-                     <span asp-validation-for="Entrenador.EquipoId" class="text-danger"></span>
+                    <select asp-for="Entrenador.EquipoId" class="form-control">
+                        <option value="">--Seleccione un Equipo--</option>
+                            @foreach (var equi in Model.Equipos)
+                            {
+                                <option value="@equi.Id">@equi.Nombre</option>
+                            }
+                        </select>
                 </div>
 
                 <div class="form-group">

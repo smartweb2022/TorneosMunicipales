@@ -1,0 +1,58 @@
+﻿@page
+@model Frontend.Pages.DetailsCanchaModel
+@{
+    ViewData["Title"]="DetailsCancha";
+}
+
+<h1>Detalles Cancha</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="Cancha.Id" >
+                
+                 <div class="form-group">
+                    <label asp-for="Cancha.Nombre" readonly class="control-label"></label>
+                    <input asp-for="Cancha.Nombre" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Cancha.Diciplina" readonly class="control-label"></label>
+                    <input asp-for="Cancha.Diciplina" readonly class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cancha.Estado" readonly class="control-label"></label>
+                    <input asp-for="Cancha.Estado" readonly class="form-control"/>
+                </div> 
+                <div class="form-group">
+                    <label asp-for="Cancha.Capacidad" readonly class="control-label"></label>
+                    <input asp-for="Cancha.Capacidad" readonly class="form-control"/>
+                </div>
+        
+                <div class="form-group">
+                    <label asp-for="Cancha.Medidas" readonly class="control-label"></label>
+                    <input asp-for="Cancha.Medidas" readonly class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Cancha.EscenarioId" readonly class="control-label"></label>
+                    <input asp-for="Cancha.EscenarioId" readonly class="form-control"/>
+                </div>
+               
+                
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="CanchaIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

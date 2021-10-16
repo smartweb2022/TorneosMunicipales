@@ -26,6 +26,7 @@ namespace Frontend.Pages
         {
             return Page();
         }
+        
         public ActionResult OnPost()
         {
             bool creado = _repoMunicipio.CrearMunicipio(Municipio);

@@ -243,7 +243,7 @@ namespace Persistencia.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Diciplina = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Disciplina = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Estado = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Capacidad = table.Column<int>(type: "int", nullable: false),
                     Medidas = table.Column<double>(type: "float", nullable: false),

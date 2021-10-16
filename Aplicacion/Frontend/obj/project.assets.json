@@ -5737,19 +5737,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Miguel\\.nuget\\packages\\": {}
+    "C:\\Users\\57301\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
+      "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5761,11 +5761,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+            "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
             },
-            "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
+            "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5797,16 +5797,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché F:\\Escritorio\\Repositorio Github\\Aplicacion\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -10,7 +10,7 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211002210114_Inicial")]
+    [Migration("20211014010728_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -71,7 +71,7 @@ namespace Persistencia.Migrations
                     b.Property<int>("Capacidad")
                         .HasColumnType("int");
 
-                    b.Property<string>("Diciplina")
+                    b.Property<string>("Disciplina")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("EscenarioId")

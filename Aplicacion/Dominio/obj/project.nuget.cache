@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QECffkz/e/sCEAKpKSIcbtc/pyGq22mZEztYnKReCwMJoj1z8pH0Sc0QNAItKfOzUPBrrKIWLuiSQT39VxyPDg==",
+  "dgSpecHash": "9I+FwUg0oBNekFMh4uNbHfgxuOnu4adTRKyBTkHYcDjFPb5sMSsOz3R7E27aHOKDdCxV/OOLIDuZlE03nR05nw==",
   "success": true,
-  "projectFilePath": "F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché F:\\Escritorio\\Repositorio Github\\Aplicacion\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

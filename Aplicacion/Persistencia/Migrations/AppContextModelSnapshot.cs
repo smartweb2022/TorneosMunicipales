@@ -69,7 +69,7 @@ namespace Persistencia.Migrations
                     b.Property<int>("Capacidad")
                         .HasColumnType("int");
 
-                    b.Property<string>("Diciplina")
+                    b.Property<string>("Disciplina")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("EscenarioId")

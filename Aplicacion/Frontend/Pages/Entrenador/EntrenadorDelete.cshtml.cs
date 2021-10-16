@@ -13,31 +13,45 @@ namespace Frontend.Pages
     public class EntrenadorDeleteModel : PageModel
     {
         //Referenciar el repositorio
-        private readonly IRepositorioEntrenador repoEntrenador;
+        private readonly IRepositorioEntrenador _repoEntrenador;
+        private readonly IRepositorioEquipo _repoEquipo;
         
-        //Constructor
-        public EntrenadorDeleteModel(IRepositorioEntrenador _repoEntrenador){
-            this.repoEntrenador=_repoEntrenador;
-        }
-
         //Propiedad para comunicacion con el cshtml
         [BindProperty]
         public Entrenador Entrenador{get;set;}
+        public Equipo Equipo{get;set;}
+
+        //Constructor
+        public EntrenadorDeleteModel(IRepositorioEntrenador repoEntrenador, IRepositorioEquipo repoEquipo){
+            this._repoEntrenador=repoEntrenador;
+            this._repoEquipo = repoEquipo;
+        }
 
         public ActionResult OnGet(int id)
         {
-            ViewData["Mensaje2"]="¿Está seguro de eliminar el registro?";
-            Entrenador=repoEntrenador.BuscarEntrenador(id);
-            return Page();
+            
+            Entrenador=_repoEntrenador.BuscarEntrenador(id);
+            Equipo=_repoEquipo.BuscarEquipo(Entrenador.EquipoId);
+
+            if(Entrenador!=null){
+                ViewData["Mensaje2"]="¿Está seguro de eliminar el registro?";
+                return Page();
+            }
+            else
+            {
+                return RedirectToPage("./EntrenadorIndex");
+            }
+            
         }
 
         public ActionResult OnPost(){            
-            bool funciono = repoEntrenador.EliminarEntrenador(Entrenador.Id);
+            bool funciono = _repoEntrenador.EliminarEntrenador(Entrenador.Id);
             if(funciono){
                 return RedirectToPage("./EntrenadorIndex");
             }
             else{
                 ViewData["Mensaje"]="Se ha presentado un error...";
+                
                 return Page();
             }
               
