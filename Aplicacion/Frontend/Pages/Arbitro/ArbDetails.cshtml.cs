@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-
-namespace Frontend.Pages
-{
-    public class ArbDetailsModel : PageModel
-    {
-        public void OnGet()
-        {
-        }
-    }
-}
-=======
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,4 +30,3 @@ namespace Frontend.Pages
         }
     }
 }
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
