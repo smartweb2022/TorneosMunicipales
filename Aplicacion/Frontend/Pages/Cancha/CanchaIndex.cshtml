@@ -1,0 +1,37 @@
+﻿@page
+@model Frontend.Pages.CanchaIndexModel
+@{
+    ViewData["Title"]= "CanchaIndex";
+}
+<h1>Lista de Canchas</h1>
+<p> 
+    <a asp-page= "CreateCancha"> Crear Cancha</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>   
+            <th> Nombre </th>
+            <th> Disciplina </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        
+        @foreach (var cancha in Model.Canchas)
+        {
+        <tr>
+            <td> @cancha.Id </td>
+            <td> @cancha.Nombre </td>
+            <td> @cancha.Diciplina </td>
+            <td>
+                @*<a asp-page="./EditCancha" asp-route-id="@Cancha.Id">Editar</a>
+                <a asp-page="./DeleteCancha"asp-route-id="@Cancha.Id">Eliminar</a>
+                <a asp-page="./DetailsCancha"asp-route-id="@Cancha.Id">Detalles</a>*@
+            </td>
+        </tr>
+        }
+        
+    </tbody>
+</table>

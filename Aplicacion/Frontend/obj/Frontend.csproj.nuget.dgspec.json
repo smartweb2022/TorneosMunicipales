@@ -1,7 +1,24 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
+=======
+    "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj": {}
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
   },
   "projects": {
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
@@ -9,17 +26,35 @@
       "restore": {
         "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
+<<<<<<< HEAD
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
+=======
+        "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\obj\\",
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+<<<<<<< HEAD
+          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -62,22 +97,54 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {
+=======
+<<<<<<< HEAD
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+        "projectName": "Frontend",
+        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
+=======
+    "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj": {
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
+<<<<<<< HEAD
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Frontend\\obj\\",
+=======
+        "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Frontend\\obj\\",
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+<<<<<<< HEAD
+          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -90,11 +157,27 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
               },
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
+=======
+<<<<<<< HEAD
+              "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj"
+=======
+              "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj"
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
               }
             }
           }
@@ -130,22 +213,54 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+=======
+<<<<<<< HEAD
+    "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
+=======
+    "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
+<<<<<<< HEAD
         "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Persistencia\\obj\\",
+=======
+        "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Persistencia\\obj\\",
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+<<<<<<< HEAD
+          "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -158,8 +273,18 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
                 "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+=======
+<<<<<<< HEAD
+              "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj"
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
               }
             }
           }

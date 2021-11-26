@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+﻿@page
+@model Frontend.Pages.MiIndexModel
+@{
+    ViewData["Title"]= "MiIndex";
+}
+<h1>Lista de Municipios</h1>
+<div class="row">
+    <img width="800" src="~/img/municipio.jpg" class="img-fluid">
+  @*<div class="col-sm">
+    <img src="~/img/municipio.jpg" class="img-fluid">
+  </div>*@
+</div>
+
+<p> 
+    <a asp-page= "Create"> Crear Municipio</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>   
+            <th> Nombre </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mun in Model.Municipios)
+        {
+        <tr>
+            <td> @mun.Id </td>
+            <td> @mun.Nombre </td>
+            <td>
+                <a asp-page="./EditMuni" asp-route-id="@mun.Id">Editar</a>
+                <a asp-page="./DeleteMuni"asp-route-id="@mun.Id">Eliminar</a>
+                <a asp-page="./DetailsMuni"asp-route-id="@mun.Id">Detalles</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+=======
 ﻿@page
 @model Frontend.Pages.MiIndexModel
 @{
@@ -40,4 +80,5 @@
         </tr>
         }
     </tbody>
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
 </table>

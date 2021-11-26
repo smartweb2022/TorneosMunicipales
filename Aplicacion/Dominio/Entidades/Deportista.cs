@@ -9,17 +9,17 @@ namespace Dominio
         
         public int Id{get;set;}
         public string Documento {get;set;}
-        public string Nombre {get;set;}
-        public string Apellidos {get;set;}
-        public string Genero {get;set;}
-        public string Rh {get;set;}
-        public string EPS {get;set;}
+        public string Nombre{get;set;}
+        public string Apellidos{get;set;}
+        public string Genero{get;set;}
+        public string Rh{get;set;}
+        public string EPS{get;set;}
         public DateTime FechaNacimiento {get;set;}
-        public string Disciplina {get;set;}
-        public string Direccion {get;set;}
-        public string NumeroEmergencia {get;set;}
+        public string Disciplina{get;set;}
+        public string Direccion{get;set;}
+        public string NumeroEmergencia{get;set;}
         // llave foranea con la tabla Equipo
-        public int EquipoId {get;set;}        
+        public int EquipoId{get;set;}        
 
     }
 }

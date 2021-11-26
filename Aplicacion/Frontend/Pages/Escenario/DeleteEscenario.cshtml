@@ -1,0 +1,39 @@
+﻿@page
+@model Frontend.Pages.DeleteEscenarioModel
+@{
+    ViewData["Title"]="Eliminar";
+}
+
+<h1>Eliminar Escenario</h1>
+<h3>@ViewData["Mensaje"]</h3>
+<h2>@ViewData["Mensaje2"]</h2>
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                
+                <input type="hidden" asp-for="Escenario.Id" >
+                <div class="form-group">
+                    <label asp-for="Escenario.Nombre" readonly class="control-label"></label>
+                    <input asp-for="Escenario.Nombre" readonly class="form-control"/>
+                    
+                </div>                    
+                <div class="form-group">
+                    <input type="submit" value="Eliminar" class="btn btn-primary"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="EscenarioIndex">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+

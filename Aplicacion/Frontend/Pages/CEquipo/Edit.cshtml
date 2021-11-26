@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@page
 @model Frontend.Pages.CEquipo.EditModel
 @{
@@ -54,3 +55,61 @@
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
 }
+=======
+﻿@page
+@model Frontend.Pages.CEquipo.EditModel
+@{
+    ViewData["Title"]="Edit";
+}
+
+<h1>Editar Equipo</h1>
+<h3>@ViewData["Mensaje"]</h3>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div> </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.Nombre" class="control-label"></label>
+                        <input asp-for="Equipo.Nombre" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.CantidadDeportistas" class="control-label"></label>
+                        <input asp-for="Equipo.CantidadDeportistas" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.Disciplina" class="control-label"></label>
+                        <input asp-for="Equipo.Disciplina" class="form-control"/>
+                    </div> 
+                    <div class="form-group">
+                        <label asp-for="Equipo.PatrocinadorId" class="control-label">Patrocinador</label>
+                        <select asp-for="Equipo.PatrocinadorId" class="form-control">
+                            <option value="">--Seleccione un Patrocinador--</option>
+                            @foreach (var patro in Model.Patrocinadores)
+                            {
+                                <option value="@patro.Id">@patro.Nombre</option>
+                            }
+                        </select>
+                    </div>
+            
+                    
+
+                    <div class="form-group">
+                        <input type="submit" value="Crear" class="btn btn-primary"/>
+                    </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="Index">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360

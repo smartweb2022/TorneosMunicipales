@@ -1,3 +1,636 @@
+<<<<<<< HEAD
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.AssemblyReference.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+D:/Users/JOAN ANDRES/Desktop/Tic.Ucaldas/Ciclo 3/DS_3/Códigos/Proyecto/Proyecto/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.AssemblyReference.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Torneo/TIndex.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+X:/CRISTHIAN/CUSRO PROGRAMACION PYTHON-JAVA-C++-SQL/ciclo 3/desarrollo de sofware/TEAMS WEB/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csprojAssemblyReference.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Torneo/TIndex.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/EditMuni.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DeleteMuni.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DetailsMuni.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Deportista/IndexDepor.cshtml.g.cs
+F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorIndex.cshtml.g.cs
+<<<<<<< HEAD
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csprojAssemblyReference.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Deportista/IndexDepor.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorIndex.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DeleteMuni.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DetailsMuni.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/EditMuni.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Torneo/TIndex.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorCreate.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorDelete.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorDetails.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorEdit.cshtml.g.cs
+=======
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.AssemblyReference.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Deportista/IndexDepor.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorIndex.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DeleteMuni.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DetailsMuni.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/EditMuni.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Torneo/TIndex.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbCreate.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDelete.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDetails.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbEdit.cshtml.g.cs
+C:/Users/CRIST/Documents/TorneosMunicipales/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbIndex.cshtml.g.cs
+>>>>>>> ecd87d5244a8e4ddef80f9e02128be52600312ff
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbCreate.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDelete.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDetails.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbEdit.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbIndex.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Create.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Delete.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Details.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Index.cshtml.g.cs
+F:/Escritorio/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Edit.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.deps.json
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.json
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.runtimeconfig.dev.json
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/ref/Frontend.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.Views.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Runtime.Caching.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Dominio.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Persistencia.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.AssemblyReference.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfoInputs.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.AssemblyInfo.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CoreCompileInputs.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorAssemblyInfo.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.Manifest.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/staticwebassets/Frontend.StaticWebAssets.xml
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/scopedcss/bundle/Frontend.styles.css
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.input.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.TagHelpers.output.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorCoreGenerate.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbCreate.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDelete.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbDetails.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbEdit.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Arbitro/ArbIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Cancha/CanchaIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Cancha/CreateCancha.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Cancha/DeleteCancha.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Cancha/DetailsCancha.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Cancha/EditCancha.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Create.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Delete.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Details.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Edit.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/CEquipo/Index.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Deportista/IndexDepor.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorCreate.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorDelete.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorDetails.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorEdit.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Escenario/CreateEscenario.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Escenario/DeleteEscenario.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Escenario/DetailsEscenario.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Escenario/EditEscenario.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Escenario/EscenarioIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/Create.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DeleteMuni.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DetailsMuni.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/EditMuni.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/MiIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Torneo/TIndex.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cache
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.RazorTargetAssemblyInfo.cs
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.Views.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.csproj.CopyComplete
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/ref/Frontend.dll
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.pdb
+/mnt/c/Users/57301/Downloads/Repositorio Github/Repositorio Github/Aplicacion/Frontend/obj/Debug/net5.0/Frontend.genruntimeconfig.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.deps.json
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.json
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.runtimeconfig.dev.json
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\ref\Frontend.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.Views.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.Views.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Dominio.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Dominio.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfo.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.input.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.TagHelpers.output.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorCoreGenerate.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbCreate.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDelete.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbEdit.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Cancha\CanchaIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Cancha\CreateCancha.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Cancha\DeleteCancha.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Cancha\DetailsCancha.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Cancha\EditCancha.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Create.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Delete.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Details.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Edit.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\CEquipo\Index.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\IndexDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorCreate.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDelete.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Escenario\CreateEscenario.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Escenario\DeleteEscenario.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Escenario\DetailsEscenario.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Escenario\EditEscenario.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Escenario\EscenarioIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\Create.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\DeleteMuni.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\DetailsMuni.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\EditMuni.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\MiIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Torneo\TIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.Views.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbCreate.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDelete.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDetails.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbEdit.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbIndex.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
+C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
+=======
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -506,6 +1139,13 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
 >>>>>>> dab6b441380e15e25c8a41a2e225eadef05736db
+<<<<<<< HEAD
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
+=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbCreate.cshtml.g.cs
@@ -514,6 +1154,7 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDetails.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbEdit.cshtml.g.cs
 >>>>>>> 48e8ca12956641008b493fbc4a8ce8509091362a
+<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
@@ -616,3 +1257,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Githu
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
+=======
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360

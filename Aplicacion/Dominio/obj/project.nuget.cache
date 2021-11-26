@@ -1,8 +1,37 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+7JfDK5iyE+yLderNw5eQ8/Sml+CUnbFqmTdL5K6cp1oQbke4bbuhA2LYQHQcvXRB6HdAlFeZbAUuFsS8iZfBw==",
   "success": true,
   "projectFilePath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "9I+FwUg0oBNekFMh4uNbHfgxuOnu4adTRKyBTkHYcDjFPb5sMSsOz3R7E27aHOKDdCxV/OOLIDuZlE03nR05nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "KsgOtP1r3WJ8gs1Gh4HCmwYe2iWxoL0JLngCrwqxV3Rn6gMOr0Zfw3Mp4h9Pq4zt002i6iZ3uORjhJVReFZ6kg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 5\\TorneosMunicipales-1\\Aplicacion\\Dominio\\Dominio.csproj",
+=======
+  "dgSpecHash": "oeud1FzrVb0IsNWgUekFRAFwXfNTzXLnvgYWlBN7L5I5QLnRu34h0dK8e8SfQwE2jDf+/K7RXIvSZ0JNdYVKFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
+>>>>>>> 48e8ca12956641008b493fbc4a8ce8509091362a
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
 }

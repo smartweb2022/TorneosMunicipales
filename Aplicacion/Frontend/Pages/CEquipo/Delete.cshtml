@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@page
 @model Frontend.Pages.CEquipo.DeleteModel
 @{
@@ -47,3 +48,54 @@
     }
 }
 
+=======
+﻿@page
+@model Frontend.Pages.CEquipo.DeleteModel
+@{
+    ViewData["Title"]="Delete";
+}
+
+<h1>Eliminar Equipo</h1>
+<h3>@ViewData["Mensaje"]</h3>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div> </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.Nombre" readonly class="control-label"></label>
+                        <input asp-for="Equipo.Nombre" readonly class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.CantidadDeportistas" readonly class="control-label"></label>
+                        <input asp-for="Equipo.CantidadDeportistas" readonly class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Equipo.Disciplina" readonly class="control-label"></label>
+                        <input asp-for="Equipo.Disciplina" readonly class="form-control"/>
+                    </div> 
+                    <div class="form-group">
+                        <label asp-for="Patrocinador" readonly class="control-label">Patrocinador</label>
+                        <input asp-for="Patrocinador.Nombre" class="form-control" readonly /> 
+                    </div>
+            
+                    <div class="form-group">
+                        <input type="submit" value="Crear" class="btn btn-primary"/>
+                    </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="Index">Atrás</a>
+    </div>
+</div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+>>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360

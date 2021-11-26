@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@page
 @model Frontend.Pages.IndexDeporModel
 @{
@@ -38,3 +39,45 @@
         }
     </tbody>
 </table>
+=======
+﻿@page
+@model Frontend.Pages.IndexDeporModel
+@{
+    ViewData["Title"]= "IndexDepor";
+}
+<h1>Lista de Deportistas</h1>
+<p> 
+    <a asp-page= "CreateDepor"> Crear Deportista</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>   
+            <th> Documento </th>  
+            <th> Nombre </th> 
+            <th> Apellidos </th>
+            <th> Disciplina </th>   
+            <th> EquipoId </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var depor in Model.Deportistas)
+        {
+        <tr>
+            <td> @depor.Id </td>   
+            <td> @depor.Documento </td>
+            <td> @depor.Nombre </td>   
+            <td> @depor.Apellidos </td>
+            <td> @depor.Disciplina </td>   
+            <td> @depor.EquipoId </td>
+            <td>
+                <a asp-page="./EditDepor" asp-route-id="@depor.Id">Editar</a>
+                <a asp-page="./DeleteDepor"asp-route-id="@depor.Id">Eliminar</a>
+                <a asp-page="./DetailsDepor"asp-route-id="@depor.Id">Detalles</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b

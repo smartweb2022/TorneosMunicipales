@@ -1,3 +1,213 @@
+<<<<<<< HEAD
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FrontendMiguel</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://kit.fontaweson.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Responsive sidebar template with sliding effect and dropdown menu based on bootstrap 3">
+    <title>Sidebar template</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" rel="stylesheet">
+    <link href="~/css/Bar.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="page-wrapper chiller-theme toggled">
+        <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
+            <i class="fas fa-bars"></i>
+        </a>
+        <nav id="sidebar" class="sidebar-wrapper">
+            <div class="sidebar-content">
+            <div class="sidebar-brand">
+                <a asp-page="/Index">
+                    Gestor Torneos
+                </a>
+                <div id="close-sidebar">
+                <i class="fas fa-times"></i>
+                </div>
+            </div>
+            
+            <!-- sidebar-search  -->
+            <div class="sidebar-menu">
+                <ul>
+                <li class="header-menu">
+                    <span>General</span>
+                </li>
+                <li class="sidebar">
+                    <a href="/Arbitro/ArbIndex">                        
+                        <i class="fas fa-trophy"></i>
+                        <span>Arbitro</span>                    
+                    </a>                                      
+                </li>
+
+                 <li class="sidebar">                    
+                    <a asp-page="/Cancha/CanchaIndex">                        
+                        <i class="fas fa-flag-checkered"></i>
+                        <span>Cancha</span>                    
+                    </a>                   
+                </li>
+
+                <li class="sidebar">                    
+                    <a asp-page="/Deportista/IndexDepor">                        
+                        <i class="fas fa-user"></i>
+                        <span>Deportista</span>                    
+                    </a>                   
+                </li>
+                
+                
+                <li class="sidebar">                                                                                        
+                    <a asp-page="/Municipio/MiIndex">
+                        <i class="fas fa-place-of-worship"></i>                        
+                        <span>Municipio</span>
+                    </a>                                                                                  
+                </li>
+
+
+                <li class="sidebar">                    
+                    <a asp-page="/Entrenador/EntrenadorIndex">                        
+                        <i class="fas fa-briefcase"></i>
+                        <span>Entrenador</span>                    
+                    </a>                   
+                </li>
+                <li class="sidebar">                    
+                    <a asp-page="/Arbitro/ArbIndex">                        
+                        <i class="fas fa-flag-checkered"></i>
+                        <span>Arbitro</span>                    
+                    </a>                   
+                </li>
+                <li class="sidebar">                    
+                    <a asp-page="/CEquipo/Index">                        
+                        <i class="fas fa-flag-checkered"></i>
+                        <span>Equipo</span>                    
+                    </a>                   
+                </li>
+                                <li class="sidebar">                    
+                    <a asp-page="/Escenario/EscenarioIndex">                        
+                        <i class="fas fa-flag-checkered"></i>
+                        <span>Escenario</span>                    
+                    </a>                   
+                </li>
+
+
+                
+                <li class="sidebar-dropdown">
+                    <a href="#">
+                    <i class="fa fa-shopping-cart"></i>
+                    <span>E-commerce</span>
+                    <span class="badge badge-pill badge-danger">3</span>
+                    </a>
+                    <div class="sidebar-submenu">
+                    <ul>
+                        <li>
+                        <a href="#">Products
+
+                        </a>
+                        </li>
+                        <li>
+                        <a href="#">Orders</a>
+                        </li>
+                        <li>
+                        <a href="#">Credit cart</a>
+                        </li>
+                    </ul>
+                    </div>
+                </li>
+                
+            <!-- sidebar-menu  -->
+            </div>
+            <!-- sidebar-content  -->
+            <div class="sidebar-footer">
+            <a href="#">
+                <i class="fa fa-bell"></i>
+                <span class="badge badge-pill badge-warning notification">3</span>
+            </a>
+            <a href="#">
+                <i class="fa fa-envelope"></i>
+                <span class="badge badge-pill badge-success notification">7</span>
+            </a>
+            <a href="#">
+                <i class="fa fa-cog"></i>
+                <span class="badge-sonar"></span>
+            </a>
+            <a href="#">
+                <i class="fa fa-power-off"></i>
+            </a>
+            </div>
+        </nav>
+        <!-- sidebar-wrapper  -->
+        <main class="page-content">
+            <div class="container-fluid">
+            @RenderBody()
+                
+
+            <footer class="text-center">
+                <div class="mb-2">
+                <small>
+                    © 2021 made with <i class="fa fa-heart" style="color:red"></i> by - <a target="_blank" rel="noopener noreferrer" @* href="https://azouaoui.netlify.com"*@>
+                    SmartWeb Team
+                    </a>
+                </small>
+                </div>
+                <div>
+                <a href="https://github.com/smartweb2022" target="_blank">
+                    <img alt="GitHub followers" src="https://img.shields.io/github/followers/smartweb2022?label=github&style=social" />
+                </a>
+                
+                </div>
+            </footer>
+            </div>
+        </main>
+        <!-- page-content" -->
+    </div>
+    
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(".sidebar-dropdown > a").click(function() {
+        $(".sidebar-submenu").slideUp(200);
+        if (
+            $(this)
+            .parent()
+            .hasClass("active")
+        ) {
+            $(".sidebar-dropdown").removeClass("active");
+            $(this)
+            .parent()
+            .removeClass("active");
+        } else {
+            $(".sidebar-dropdown").removeClass("active");
+            $(this)
+            .next(".sidebar-submenu")
+            .slideDown(200);
+            $(this)
+            .parent()
+            .addClass("active");
+        }
+        });
+
+        $("#close-sidebar").click(function() {
+        $(".page-wrapper").removeClass("toggled");
+        });
+        $("#show-sidebar").click(function() {
+        $(".page-wrapper").addClass("toggled");
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+=======
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,7 +266,7 @@
 
                 <li class="sidebar">                    
                     <a asp-page="/Deportista/IndexDepor">                        
-                        <i class="fas fa-user"></i>
+                        <i class="fas fa-swimmer"></i>
                         <span>Deportista</span>                    
                     </a>                   
                 </li>
@@ -72,11 +282,19 @@
                         <span>Arbitro</span>                    
                     </a>                   
                 </li>
+<<<<<<< HEAD
+                </li>
+                <li class="sidebar">                    
+                    <a asp-page="/Patrocinador/IndexPatro">                        
+                        <i class="fas fa-coins"></i>
+                        <span>Patrocinador</span>                    
+=======
 
                 <li class="sidebar">                    
                     <a asp-page="/EscuelaArbitro/EscArbIndex">                        
                         <i class="fas fa-school"></i>
                         <span>Escuela-Arbitro</span>                    
+>>>>>>> 48e8ca12956641008b493fbc4a8ce8509091362a
                     </a>                   
                 </li>
 
@@ -196,3 +414,4 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+>>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
