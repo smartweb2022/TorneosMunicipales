@@ -92,3 +92,21 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\ne
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
 >>>>>>> ecd87d5244a8e4ddef80f9e02128be52600312ff
 >>>>>>> e41d66147ea55039aa5270cf73f9d9fefece6795
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
