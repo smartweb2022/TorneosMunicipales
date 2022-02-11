@@ -7,16 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Dominio
-<<<<<<< HEAD
-build_property.ProjectDir = D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Dominio\
-=======
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Dominio\
-=======
-<<<<<<< HEAD
-build_property.ProjectDir = D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Dominio\
-=======
-build_property.ProjectDir = C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Dominio\
->>>>>>> 48e8ca12956641008b493fbc4a8ce8509091362a
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
->>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
+build_property.ProjectDir = C:\grupo8\Aplicacion\Dominio\

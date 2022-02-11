@@ -8,62 +8,28 @@
     "net5.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\57301\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\CRIST\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
->>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\grupo8\\Aplicacion\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\JOAN ANDRES\\Desktop\\Tic.Ucaldas\\Ciclo 3\\DS_3\\Modulo 6\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
-      "projectName": "Dominio",
-      "projectPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57301\\Downloads\\Repositorio Github\\Repositorio Github\\Aplicacion\\Dominio\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
-      "projectName": "Dominio",
-      "projectPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\grupo8\\Aplicacion\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\obj\\",
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
->>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
+      "outputPath": "C:\\grupo8\\Aplicacion\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-<<<<<<< HEAD
-        "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
         "C:\\Users\\CRIST\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
->>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -105,21 +71,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-<<<<<<< HEAD
   }
-=======
-<<<<<<< HEAD
-  }
-=======
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\CRIST\\Documents\\TorneosMunicipales\\Aplicacion\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
->>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
->>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
 }

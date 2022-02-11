@@ -228,7 +228,6 @@ F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Munici
 F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Municipio/DetailsMuni.cshtml.g.cs
 F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Deportista/IndexDepor.cshtml.g.cs
 F:/MisionTic/Repositorio/Aplicacion/Frontend/obj/Debug/net5.0/Razor/Pages/Entrenador/EntrenadorIndex.cshtml.g.cs
-<<<<<<< HEAD
 F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.Development.json
 F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/appsettings.json
 F:/Escritorio/Repositorio Github/Aplicacion/Frontend/bin/Debug/net5.0/Frontend.exe
@@ -630,7 +629,6 @@ C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Fronte
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
 C:\Users\57301\Downloads\Repositorio Github\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
-=======
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Códigos\Proyecto\Proyecto\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -860,7 +858,6 @@ F:\MisionTic\Repositorio\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Munici
 F:\MisionTic\Repositorio\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\DetailsMuni.cshtml.g.cs
 F:\MisionTic\Repositorio\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\IndexDepor.cshtml.g.cs
 F:\MisionTic\Repositorio\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorIndex.cshtml.g.cs
-<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -943,7 +940,6 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
-=======
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.Development.json
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\appsettings.json
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -1113,7 +1109,6 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbEdit.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbIndex.cshtml.g.cs
->>>>>>> ecd87d5244a8e4ddef80f9e02128be52600312ff
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbCreate.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDelete.cshtml.g.cs
 F:\Escritorio\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Arbitro\ArbDetails.cshtml.g.cs
@@ -1139,13 +1134,11 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipale
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorDetails.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Entrenador\EntrenadorEdit.cshtml.g.cs
 >>>>>>> dab6b441380e15e25c8a41a2e225eadef05736db
-<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DeleteDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\DetailsDepor.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\CreatePatro.cshtml.g.cs
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 5\TorneosMunicipales-1\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\EditPatro.cshtml.g.cs
-=======
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\CreateDepor.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Deportista\EditDepor.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbCreate.cshtml.g.cs
@@ -1154,7 +1147,6 @@ C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbDetails.cshtml.g.cs
 C:\Users\CRIST\Documents\TorneosMunicipales\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\EscuelaArbitro\EscArbEdit.cshtml.g.cs
 >>>>>>> 48e8ca12956641008b493fbc4a8ce8509091362a
-<<<<<<< HEAD
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
@@ -1257,6 +1249,16 @@ D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Githu
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
 D:\Users\JOAN ANDRES\Desktop\Tic.Ucaldas\Ciclo 3\DS_3\Modulo 6\Repositorio Github\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Patrocinador\IndexPatro.cshtml.g.cs
-=======
 >>>>>>> 7bc6be9045b1734bdfca64fb388802360600aa9b
 >>>>>>> 4b16e537cec700cdc435a1ba8473f60cf4c36360
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.AssemblyReference.cache
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfoInputs.cache
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.AssemblyInfo.cs
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.csproj.CoreCompileInputs.cache
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cache
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.RazorAssemblyInfo.cs
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.dll
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\ref\Frontend.dll
+C:\grupo8\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb
